@@ -1,0 +1,457 @@
+state_ut,variable,value,level,category
+India,primary_boys,86.5,primary,boys
+Andaman and Nicobar Islands,primary_boys,94.1,primary,boys
+Andhra Pradesh,primary_boys,100.0,primary,boys
+Arunachal Pradesh,primary_boys,45.6,primary,boys
+Assam,primary_boys,75.2,primary,boys
+Bihar,primary_boys,83.7,primary,boys
+Chandigarh,primary_boys,100.0,primary,boys
+Chhattisgarh,primary_boys,88.6,primary,boys
+Dadra and Nagar Haveli,primary_boys,97.1,primary,boys
+Daman and Diu,primary_boys,100.0,primary,boys
+Delhi,primary_boys,100.0,primary,boys
+Goa,primary_boys,94.1,primary,boys
+Gujarat,primary_boys,94.8,primary,boys
+Haryana,primary_boys,100.0,primary,boys
+Himachal Pradesh,primary_boys,97.7,primary,boys
+Jammu and Kashmir,primary_boys,71.0,primary,boys
+Jharkhand,primary_boys,79.4,primary,boys
+Karnataka,primary_boys,96.0,primary,boys
+Kerala,primary_boys,99.6,primary,boys
+Ladakh,primary_boys,79.0,primary,boys
+Lakshadweep,primary_boys,100.0,primary,boys
+Madhya Pradesh,primary_boys,88.6,primary,boys
+Maharashtra,primary_boys,97.9,primary,boys
+Manipur,primary_boys,73.6,primary,boys
+Meghalaya,primary_boys,53.6,primary,boys
+Mizoram,primary_boys,61.4,primary,boys
+Nagaland,primary_boys,64.7,primary,boys
+Odisha,primary_boys,87.7,primary,boys
+Puducherry,primary_boys,100.0,primary,boys
+Punjab,primary_boys,90.7,primary,boys
+Rajasthan,primary_boys,75.4,primary,boys
+Sikkim,primary_boys,91.1,primary,boys
+Tamil Nadu,primary_boys,95.2,primary,boys
+Telangana,primary_boys,84.3,primary,boys
+Tripura,primary_boys,93.8,primary,boys
+Uttar Pradesh,primary_boys,79.4,primary,boys
+Uttarakhand,primary_boys,85.0,primary,boys
+West Bengal,primary_boys,84.7,primary,boys
+India,primary_girls,87.5,primary,girls
+Andaman and Nicobar Islands,primary_girls,95.7,primary,girls
+Andhra Pradesh,primary_girls,100.0,primary,girls
+Arunachal Pradesh,primary_girls,49.1,primary,girls
+Assam,primary_girls,78.4,primary,girls
+Bihar,primary_girls,86.9,primary,girls
+Chandigarh,primary_girls,100.0,primary,girls
+Chhattisgarh,primary_girls,89.9,primary,girls
+Dadra and Nagar Haveli,primary_girls,98.6,primary,girls
+Daman and Diu,primary_girls,100.0,primary,girls
+Delhi,primary_girls,100.0,primary,girls
+Goa,primary_girls,97.8,primary,girls
+Gujarat,primary_girls,95.3,primary,girls
+Haryana,primary_girls,100.0,primary,girls
+Himachal Pradesh,primary_girls,97.2,primary,girls
+Jammu and Kashmir,primary_girls,70.6,primary,girls
+Jharkhand,primary_girls,81.7,primary,girls
+Karnataka,primary_girls,96.2,primary,girls
+Kerala,primary_girls,99.7,primary,girls
+Ladakh,primary_girls,81.1,primary,girls
+Lakshadweep,primary_girls,100.0,primary,girls
+Madhya Pradesh,primary_girls,90.8,primary,girls
+Maharashtra,primary_girls,98.0,primary,girls
+Manipur,primary_girls,70.9,primary,girls
+Meghalaya,primary_girls,58.7,primary,girls
+Mizoram,primary_girls,62.8,primary,girls
+Nagaland,primary_girls,66.5,primary,girls
+Odisha,primary_girls,87.6,primary,girls
+Puducherry,primary_girls,100.0,primary,girls
+Punjab,primary_girls,91.9,primary,girls
+Rajasthan,primary_girls,76.6,primary,girls
+Sikkim,primary_girls,94.0,primary,girls
+Tamil Nadu,primary_girls,94.4,primary,girls
+Telangana,primary_girls,84.8,primary,girls
+Tripura,primary_girls,95.9,primary,girls
+Uttar Pradesh,primary_girls,79.6,primary,girls
+Uttarakhand,primary_girls,86.1,primary,girls
+West Bengal,primary_girls,87.6,primary,girls
+India,primary_total,87.0,primary,total
+Andaman and Nicobar Islands,primary_total,94.9,primary,total
+Andhra Pradesh,primary_total,100.0,primary,total
+Arunachal Pradesh,primary_total,47.2,primary,total
+Assam,primary_total,76.8,primary,total
+Bihar,primary_total,85.3,primary,total
+Chandigarh,primary_total,100.0,primary,total
+Chhattisgarh,primary_total,89.2,primary,total
+Dadra and Nagar Haveli,primary_total,97.8,primary,total
+Daman and Diu,primary_total,100.0,primary,total
+Delhi,primary_total,100.0,primary,total
+Goa,primary_total,95.8,primary,total
+Gujarat,primary_total,95.0,primary,total
+Haryana,primary_total,100.0,primary,total
+Himachal Pradesh,primary_total,97.5,primary,total
+Jammu and Kashmir,primary_total,70.8,primary,total
+Jharkhand,primary_total,80.5,primary,total
+Karnataka,primary_total,96.1,primary,total
+Kerala,primary_total,99.7,primary,total
+Ladakh,primary_total,80.1,primary,total
+Lakshadweep,primary_total,100.0,primary,total
+Madhya Pradesh,primary_total,89.7,primary,total
+Maharashtra,primary_total,98.0,primary,total
+Manipur,primary_total,72.3,primary,total
+Meghalaya,primary_total,56.1,primary,total
+Mizoram,primary_total,62.1,primary,total
+Nagaland,primary_total,65.6,primary,total
+Odisha,primary_total,87.7,primary,total
+Puducherry,primary_total,100.0,primary,total
+Punjab,primary_total,91.2,primary,total
+Rajasthan,primary_total,76.0,primary,total
+Sikkim,primary_total,92.4,primary,total
+Tamil Nadu,primary_total,94.8,primary,total
+Telangana,primary_total,84.6,primary,total
+Tripura,primary_total,94.8,primary,total
+Uttar Pradesh,primary_total,79.5,primary,total
+Uttarakhand,primary_total,85.5,primary,total
+West Bengal,primary_total,86.1,primary,total
+India,elementary_boys,73.8,elementary,boys
+Andaman and Nicobar Islands,elementary_boys,92.4,elementary,boys
+Andhra Pradesh,elementary_boys,85.2,elementary,boys
+Arunachal Pradesh,elementary_boys,34.2,elementary,boys
+Assam,elementary_boys,59.0,elementary,boys
+Bihar,elementary_boys,73.2,elementary,boys
+Chandigarh,elementary_boys,100.0,elementary,boys
+Chhattisgarh,elementary_boys,79.7,elementary,boys
+Dadra and Nagar Haveli,elementary_boys,100.0,elementary,boys
+Daman and Diu,elementary_boys,91.3,elementary,boys
+Delhi,elementary_boys,100.0,elementary,boys
+Goa,elementary_boys,96.6,elementary,boys
+Gujarat,elementary_boys,91.4,elementary,boys
+Haryana,elementary_boys,96.5,elementary,boys
+Himachal Pradesh,elementary_boys,96.7,elementary,boys
+Jammu and Kashmir,elementary_boys,65.3,elementary,boys
+Jharkhand,elementary_boys,60.4,elementary,boys
+Karnataka,elementary_boys,86.8,elementary,boys
+Kerala,elementary_boys,100.0,elementary,boys
+Ladakh,elementary_boys,68.6,elementary,boys
+Lakshadweep,elementary_boys,86.3,elementary,boys
+Madhya Pradesh,elementary_boys,68.3,elementary,boys
+Maharashtra,elementary_boys,94.7,elementary,boys
+Manipur,elementary_boys,49.3,elementary,boys
+Meghalaya,elementary_boys,42.8,elementary,boys
+Mizoram,elementary_boys,47.7,elementary,boys
+Nagaland,elementary_boys,45.4,elementary,boys
+Odisha,elementary_boys,77.7,elementary,boys
+Puducherry,elementary_boys,96.1,elementary,boys
+Punjab,elementary_boys,93.4,elementary,boys
+Rajasthan,elementary_boys,71.8,elementary,boys
+Sikkim,elementary_boys,73.6,elementary,boys
+Tamil Nadu,elementary_boys,86.4,elementary,boys
+Telangana,elementary_boys,75.4,elementary,boys
+Tripura,elementary_boys,78.5,elementary,boys
+Uttar Pradesh,elementary_boys,61.2,elementary,boys
+Uttarakhand,elementary_boys,82.0,elementary,boys
+West Bengal,elementary_boys,57.9,elementary,boys
+India,elementary_girls,75.5,elementary,girls
+Andaman and Nicobar Islands,elementary_girls,93.5,elementary,girls
+Andhra Pradesh,elementary_girls,85.8,elementary,girls
+Arunachal Pradesh,elementary_girls,39.0,elementary,girls
+Assam,elementary_girls,66.9,elementary,girls
+Bihar,elementary_girls,78.5,elementary,girls
+Chandigarh,elementary_girls,100.0,elementary,girls
+Chhattisgarh,elementary_girls,82.5,elementary,girls
+Dadra and Nagar Haveli,elementary_girls,100.0,elementary,girls
+Daman and Diu,elementary_girls,99.1,elementary,girls
+Delhi,elementary_girls,100.0,elementary,girls
+Goa,elementary_girls,96.2,elementary,girls
+Gujarat,elementary_girls,88.0,elementary,girls
+Haryana,elementary_girls,95.2,elementary,girls
+Himachal Pradesh,elementary_girls,95.9,elementary,girls
+Jammu and Kashmir,elementary_girls,65.9,elementary,girls
+Jharkhand,elementary_girls,65.1,elementary,girls
+Karnataka,elementary_girls,88.1,elementary,girls
+Kerala,elementary_girls,100.0,elementary,girls
+Ladakh,elementary_girls,74.1,elementary,girls
+Lakshadweep,elementary_girls,99.8,elementary,girls
+Madhya Pradesh,elementary_girls,69.1,elementary,girls
+Maharashtra,elementary_girls,94.1,elementary,girls
+Manipur,elementary_girls,48.8,elementary,girls
+Meghalaya,elementary_girls,51.9,elementary,girls
+Mizoram,elementary_girls,51.0,elementary,girls
+Nagaland,elementary_girls,48.8,elementary,girls
+Odisha,elementary_girls,77.8,elementary,girls
+Puducherry,elementary_girls,96.4,elementary,girls
+Punjab,elementary_girls,96.6,elementary,girls
+Rajasthan,elementary_girls,71.5,elementary,girls
+Sikkim,elementary_girls,86.7,elementary,girls
+Tamil Nadu,elementary_girls,86.2,elementary,girls
+Telangana,elementary_girls,77.6,elementary,girls
+Tripura,elementary_girls,82.3,elementary,girls
+Uttar Pradesh,elementary_girls,62.1,elementary,girls
+Uttarakhand,elementary_girls,83.9,elementary,girls
+West Bengal,elementary_girls,65.6,elementary,girls
+India,elementary_total,74.6,elementary,total
+Andaman and Nicobar Islands,elementary_total,92.9,elementary,total
+Andhra Pradesh,elementary_total,85.5,elementary,total
+Arunachal Pradesh,elementary_total,36.5,elementary,total
+Assam,elementary_total,62.9,elementary,total
+Bihar,elementary_total,75.8,elementary,total
+Chandigarh,elementary_total,100.0,elementary,total
+Chhattisgarh,elementary_total,81.1,elementary,total
+Dadra and Nagar Haveli,elementary_total,100.0,elementary,total
+Daman and Diu,elementary_total,94.8,elementary,total
+Delhi,elementary_total,100.0,elementary,total
+Goa,elementary_total,96.4,elementary,total
+Gujarat,elementary_total,89.8,elementary,total
+Haryana,elementary_total,95.9,elementary,total
+Himachal Pradesh,elementary_total,96.3,elementary,total
+Jammu and Kashmir,elementary_total,65.6,elementary,total
+Jharkhand,elementary_total,62.7,elementary,total
+Karnataka,elementary_total,87.4,elementary,total
+Kerala,elementary_total,100.0,elementary,total
+Ladakh,elementary_total,71.2,elementary,total
+Lakshadweep,elementary_total,93.0,elementary,total
+Madhya Pradesh,elementary_total,68.6,elementary,total
+Maharashtra,elementary_total,94.4,elementary,total
+Manipur,elementary_total,49.1,elementary,total
+Meghalaya,elementary_total,47.3,elementary,total
+Mizoram,elementary_total,49.2,elementary,total
+Nagaland,elementary_total,47.1,elementary,total
+Odisha,elementary_total,77.8,elementary,total
+Puducherry,elementary_total,96.3,elementary,total
+Punjab,elementary_total,94.8,elementary,total
+Rajasthan,elementary_total,71.7,elementary,total
+Sikkim,elementary_total,79.7,elementary,total
+Tamil Nadu,elementary_total,86.3,elementary,total
+Telangana,elementary_total,76.5,elementary,total
+Tripura,elementary_total,80.4,elementary,total
+Uttar Pradesh,elementary_total,61.6,elementary,total
+Uttarakhand,elementary_total,82.9,elementary,total
+West Bengal,elementary_total,61.7,elementary,total
+India,secondary_boys,59.5,secondary,boys
+Andaman and Nicobar Islands,secondary_boys,79.7,secondary,boys
+Andhra Pradesh,secondary_boys,73.5,secondary,boys
+Arunachal Pradesh,secondary_boys,20.1,secondary,boys
+Assam,secondary_boys,36.0,secondary,boys
+Bihar,secondary_boys,43.1,secondary,boys
+Chandigarh,secondary_boys,92.5,secondary,boys
+Chhattisgarh,secondary_boys,53.3,secondary,boys
+Dadra and Nagar Haveli,secondary_boys,64.1,secondary,boys
+Daman and Diu,secondary_boys,68.1,secondary,boys
+Delhi,secondary_boys,83.1,secondary,boys
+Goa,secondary_boys,92.7,secondary,boys
+Gujarat,secondary_boys,68.9,secondary,boys
+Haryana,secondary_boys,96.2,secondary,boys
+Himachal Pradesh,secondary_boys,86.2,secondary,boys
+Jammu and Kashmir,secondary_boys,51.3,secondary,boys
+Jharkhand,secondary_boys,35.1,secondary,boys
+Karnataka,secondary_boys,77.4,secondary,boys
+Kerala,secondary_boys,100.0,secondary,boys
+Ladakh,secondary_boys,57.6,secondary,boys
+Lakshadweep,secondary_boys,70.5,secondary,boys
+Madhya Pradesh,secondary_boys,44.7,secondary,boys
+Maharashtra,secondary_boys,86.1,secondary,boys
+Manipur,secondary_boys,42.9,secondary,boys
+Meghalaya,secondary_boys,28.9,secondary,boys
+Mizoram,secondary_boys,37.4,secondary,boys
+Nagaland,secondary_boys,30.1,secondary,boys
+Odisha,secondary_boys,58.8,secondary,boys
+Puducherry,secondary_boys,87.4,secondary,boys
+Punjab,secondary_boys,82.4,secondary,boys
+Rajasthan,secondary_boys,57.4,secondary,boys
+Sikkim,secondary_boys,42.5,secondary,boys
+Tamil Nadu,secondary_boys,81.3,secondary,boys
+Telangana,secondary_boys,68.0,secondary,boys
+Tripura,secondary_boys,57.2,secondary,boys
+Uttar Pradesh,secondary_boys,61.1,secondary,boys
+Uttarakhand,secondary_boys,70.7,secondary,boys
+West Bengal,secondary_boys,40.4,secondary,boys
+India,secondary_girls,59.6,secondary,girls
+Andaman and Nicobar Islands,secondary_girls,92.2,secondary,girls
+Andhra Pradesh,secondary_girls,75.1,secondary,girls
+Arunachal Pradesh,secondary_girls,23.6,secondary,girls
+Assam,secondary_girls,43.1,secondary,girls
+Bihar,secondary_girls,46.4,secondary,girls
+Chandigarh,secondary_girls,98.4,secondary,girls
+Chhattisgarh,secondary_girls,62.9,secondary,girls
+Dadra and Nagar Haveli,secondary_girls,71.2,secondary,girls
+Daman and Diu,secondary_girls,79.1,secondary,girls
+Delhi,secondary_girls,80.4,secondary,girls
+Goa,secondary_girls,96.5,secondary,girls
+Gujarat,secondary_girls,60.6,secondary,girls
+Haryana,secondary_girls,90.7,secondary,girls
+Himachal Pradesh,secondary_girls,87.8,secondary,girls
+Jammu and Kashmir,secondary_girls,50.8,secondary,girls
+Jharkhand,secondary_girls,38.4,secondary,girls
+Karnataka,secondary_girls,78.9,secondary,girls
+Kerala,secondary_girls,100.0,secondary,girls
+Ladakh,secondary_girls,67.8,secondary,girls
+Lakshadweep,secondary_girls,85.7,secondary,girls
+Madhya Pradesh,secondary_girls,42.7,secondary,girls
+Maharashtra,secondary_girls,83.3,secondary,girls
+Manipur,secondary_girls,43.6,secondary,girls
+Meghalaya,secondary_girls,35.8,secondary,girls
+Mizoram,secondary_girls,44.6,secondary,girls
+Nagaland,secondary_girls,33.9,secondary,girls
+Odisha,secondary_girls,62.4,secondary,girls
+Puducherry,secondary_girls,92.1,secondary,girls
+Punjab,secondary_girls,90.9,secondary,girls
+Rajasthan,secondary_girls,52.4,secondary,girls
+Sikkim,secondary_girls,58.0,secondary,girls
+Tamil Nadu,secondary_girls,83.9,secondary,girls
+Telangana,secondary_girls,70.3,secondary,girls
+Tripura,secondary_girls,64.0,secondary,girls
+Uttar Pradesh,secondary_girls,54.0,secondary,girls
+Uttarakhand,secondary_girls,72.8,secondary,girls
+West Bengal,secondary_girls,53.2,secondary,girls
+India,secondary_total,59.5,secondary,total
+Andaman and Nicobar Islands,secondary_total,85.8,secondary,total
+Andhra Pradesh,secondary_total,74.3,secondary,total
+Arunachal Pradesh,secondary_total,21.8,secondary,total
+Assam,secondary_total,39.5,secondary,total
+Bihar,secondary_total,44.7,secondary,total
+Chandigarh,secondary_total,95.3,secondary,total
+Chhattisgarh,secondary_total,58.0,secondary,total
+Dadra and Nagar Haveli,secondary_total,67.5,secondary,total
+Daman and Diu,secondary_total,73.3,secondary,total
+Delhi,secondary_total,81.8,secondary,total
+Goa,secondary_total,94.5,secondary,total
+Gujarat,secondary_total,65.0,secondary,total
+Haryana,secondary_total,93.7,secondary,total
+Himachal Pradesh,secondary_total,87.0,secondary,total
+Jammu and Kashmir,secondary_total,51.1,secondary,total
+Jharkhand,secondary_total,36.7,secondary,total
+Karnataka,secondary_total,78.1,secondary,total
+Kerala,secondary_total,100.0,secondary,total
+Ladakh,secondary_total,62.5,secondary,total
+Lakshadweep,secondary_total,77.8,secondary,total
+Madhya Pradesh,secondary_total,43.7,secondary,total
+Maharashtra,secondary_total,84.8,secondary,total
+Manipur,secondary_total,43.3,secondary,total
+Meghalaya,secondary_total,32.3,secondary,total
+Mizoram,secondary_total,40.8,secondary,total
+Nagaland,secondary_total,32.0,secondary,total
+Odisha,secondary_total,60.5,secondary,total
+Puducherry,secondary_total,89.7,secondary,total
+Punjab,secondary_total,86.2,secondary,total
+Rajasthan,secondary_total,55.0,secondary,total
+Sikkim,secondary_total,49.8,secondary,total
+Tamil Nadu,secondary_total,82.6,secondary,total
+Telangana,secondary_total,69.1,secondary,total
+Tripura,secondary_total,60.5,secondary,total
+Uttar Pradesh,secondary_total,57.6,secondary,total
+Uttarakhand,secondary_total,71.7,secondary,total
+West Bengal,secondary_total,46.6,secondary,total
+India,highersecondary_boys,40.0,highersecondary,boys
+Andaman and Nicobar Islands,highersecondary_boys,49.3,highersecondary,boys
+Andhra Pradesh,highersecondary_boys,45.5,highersecondary,boys
+Arunachal Pradesh,highersecondary_boys,10.6,highersecondary,boys
+Assam,highersecondary_boys,17.0,highersecondary,boys
+Bihar,highersecondary_boys,19.3,highersecondary,boys
+Chandigarh,highersecondary_boys,100.0,highersecondary,boys
+Chhattisgarh,highersecondary_boys,35.0,highersecondary,boys
+Dadra and Nagar Haveli,highersecondary_boys,42.3,highersecondary,boys
+Daman and Diu,highersecondary_boys,47.4,highersecondary,boys
+Delhi,highersecondary_boys,58.0,highersecondary,boys
+Goa,highersecondary_boys,75.0,highersecondary,boys
+Gujarat,highersecondary_boys,41.2,highersecondary,boys
+Haryana,highersecondary_boys,65.7,highersecondary,boys
+Himachal Pradesh,highersecondary_boys,66.0,highersecondary,boys
+Jammu and Kashmir,highersecondary_boys,34.3,highersecondary,boys
+Jharkhand,highersecondary_boys,20.4,highersecondary,boys
+Karnataka,highersecondary_boys,41.6,highersecondary,boys
+Kerala,highersecondary_boys,100.0,highersecondary,boys
+Ladakh,highersecondary_boys,31.8,highersecondary,boys
+Lakshadweep,highersecondary_boys,77.4,highersecondary,boys
+Madhya Pradesh,highersecondary_boys,29.2,highersecondary,boys
+Maharashtra,highersecondary_boys,63.9,highersecondary,boys
+Manipur,highersecondary_boys,33.1,highersecondary,boys
+Meghalaya,highersecondary_boys,19.2,highersecondary,boys
+Mizoram,highersecondary_boys,26.5,highersecondary,boys
+Nagaland,highersecondary_boys,19.4,highersecondary,boys
+Odisha,highersecondary_boys,38.9,highersecondary,boys
+Puducherry,highersecondary_boys,69.9,highersecondary,boys
+Punjab,highersecondary_boys,89.9,highersecondary,boys
+Rajasthan,highersecondary_boys,41.6,highersecondary,boys
+Sikkim,highersecondary_boys,37.4,highersecondary,boys
+Tamil Nadu,highersecondary_boys,61.1,highersecondary,boys
+Telangana,highersecondary_boys,41.9,highersecondary,boys
+Tripura,highersecondary_boys,29.5,highersecondary,boys
+Uttar Pradesh,highersecondary_boys,44.5,highersecondary,boys
+Uttarakhand,highersecondary_boys,57.1,highersecondary,boys
+West Bengal,highersecondary_boys,34.9,highersecondary,boys
+India,highersecondary_girls,40.4,highersecondary,girls
+Andaman and Nicobar Islands,highersecondary_girls,63.7,highersecondary,girls
+Andhra Pradesh,highersecondary_girls,51.4,highersecondary,girls
+Arunachal Pradesh,highersecondary_girls,13.4,highersecondary,girls
+Assam,highersecondary_girls,17.5,highersecondary,girls
+Bihar,highersecondary_girls,18.5,highersecondary,girls
+Chandigarh,highersecondary_girls,100.0,highersecondary,girls
+Chhattisgarh,highersecondary_girls,42.7,highersecondary,girls
+Dadra and Nagar Haveli,highersecondary_girls,48.4,highersecondary,girls
+Daman and Diu,highersecondary_girls,56.5,highersecondary,girls
+Delhi,highersecondary_girls,60.9,highersecondary,girls
+Goa,highersecondary_girls,85.4,highersecondary,girls
+Gujarat,highersecondary_girls,40.4,highersecondary,girls
+Haryana,highersecondary_girls,62.5,highersecondary,girls
+Himachal Pradesh,highersecondary_girls,72.5,highersecondary,girls
+Jammu and Kashmir,highersecondary_girls,35.0,highersecondary,girls
+Jharkhand,highersecondary_girls,20.0,highersecondary,girls
+Karnataka,highersecondary_girls,51.5,highersecondary,girls
+Kerala,highersecondary_girls,100.0,highersecondary,girls
+Ladakh,highersecondary_girls,45.4,highersecondary,girls
+Lakshadweep,highersecondary_girls,82.8,highersecondary,girls
+Madhya Pradesh,highersecondary_girls,27.4,highersecondary,girls
+Maharashtra,highersecondary_girls,61.4,highersecondary,girls
+Manipur,highersecondary_girls,31.7,highersecondary,girls
+Meghalaya,highersecondary_girls,24.1,highersecondary,girls
+Mizoram,highersecondary_girls,31.2,highersecondary,girls
+Nagaland,highersecondary_girls,23.0,highersecondary,girls
+Odisha,highersecondary_girls,40.7,highersecondary,girls
+Puducherry,highersecondary_girls,83.8,highersecondary,girls
+Punjab,highersecondary_girls,92.6,highersecondary,girls
+Rajasthan,highersecondary_girls,36.8,highersecondary,girls
+Sikkim,highersecondary_girls,50.3,highersecondary,girls
+Tamil Nadu,highersecondary_girls,75.6,highersecondary,girls
+Telangana,highersecondary_girls,48.6,highersecondary,girls
+Tripura,highersecondary_girls,29.2,highersecondary,girls
+Uttar Pradesh,highersecondary_girls,39.5,highersecondary,girls
+Uttarakhand,highersecondary_girls,63.1,highersecondary,girls
+West Bengal,highersecondary_girls,42.5,highersecondary,girls
+India,highersecondary_total,40.2,highersecondary,total
+Andaman and Nicobar Islands,highersecondary_total,56.2,highersecondary,total
+Andhra Pradesh,highersecondary_total,48.4,highersecondary,total
+Arunachal Pradesh,highersecondary_total,11.9,highersecondary,total
+Assam,highersecondary_total,17.2,highersecondary,total
+Bihar,highersecondary_total,18.9,highersecondary,total
+Chandigarh,highersecondary_total,100,highersecondary,total
+Chhattisgarh,highersecondary_total,38.8,highersecondary,total
+Dadra and Nagar Haveli,highersecondary_total,45.2,highersecondary,total
+Daman and Diu,highersecondary_total,51.8,highersecondary,total
+Delhi,highersecondary_total,59.4,highersecondary,total
+Goa,highersecondary_total,80.0,highersecondary,total
+Gujarat,highersecondary_total,40.8,highersecondary,total
+Haryana,highersecondary_total,64.2,highersecondary,total
+Himachal Pradesh,highersecondary_total,69.1,highersecondary,total
+Jammu and Kashmir,highersecondary_total,34.6,highersecondary,total
+Jharkhand,highersecondary_total,20.2,highersecondary,total
+Karnataka,highersecondary_total,46.4,highersecondary,total
+Kerala,highersecondary_total,100,highersecondary,total
+Ladakh,highersecondary_total,38.5,highersecondary,total
+Lakshadweep,highersecondary_total,80.1,highersecondary,total
+Madhya Pradesh,highersecondary_total,28.3,highersecondary,total
+Maharashtra,highersecondary_total,62.7,highersecondary,total
+Manipur,highersecondary_total,32.4,highersecondary,total
+Meghalaya,highersecondary_total,21.6,highersecondary,total
+Mizoram,highersecondary_total,28.8,highersecondary,total
+Nagaland,highersecondary_total,21.1,highersecondary,total
+Odisha,highersecondary_total,39.7,highersecondary,total
+Puducherry,highersecondary_total,76.6,highersecondary,total
+Punjab,highersecondary_total,91.1,highersecondary,total
+Rajasthan,highersecondary_total,39.3,highersecondary,total
+Sikkim,highersecondary_total,43.6,highersecondary,total
+Tamil Nadu,highersecondary_total,68.1,highersecondary,total
+Telangana,highersecondary_total,45.2,highersecondary,total
+Tripura,highersecondary_total,29.4,highersecondary,total
+Uttar Pradesh,highersecondary_total,42.1,highersecondary,total
+Uttarakhand,highersecondary_total,59.9,highersecondary,total
+West Bengal,highersecondary_total,38.6,highersecondary,total
