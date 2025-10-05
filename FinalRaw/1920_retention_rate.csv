@@ -1,0 +1,457 @@
+state_ut,variable,value,level,category
+India,retention_rate_primary_1_to_5_boys,86.5,retention,rate
+Andaman and Nicobar Islands,retention_rate_primary_1_to_5_boys,94.1,retention,rate
+Andhra Pradesh,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Arunachal Pradesh,retention_rate_primary_1_to_5_boys,45.6,retention,rate
+Assam,retention_rate_primary_1_to_5_boys,75.2,retention,rate
+Bihar,retention_rate_primary_1_to_5_boys,83.7,retention,rate
+Chandigarh,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Chhattisgarh,retention_rate_primary_1_to_5_boys,88.6,retention,rate
+Dadra and Nagar Haveli,retention_rate_primary_1_to_5_boys,97.1,retention,rate
+Daman and Diu,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Delhi,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Goa,retention_rate_primary_1_to_5_boys,94.1,retention,rate
+Gujarat,retention_rate_primary_1_to_5_boys,94.8,retention,rate
+Haryana,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Himachal Pradesh,retention_rate_primary_1_to_5_boys,97.7,retention,rate
+Jammu and Kashmir,retention_rate_primary_1_to_5_boys,71.0,retention,rate
+Jharkhand,retention_rate_primary_1_to_5_boys,79.4,retention,rate
+Karnataka,retention_rate_primary_1_to_5_boys,96.0,retention,rate
+Kerala,retention_rate_primary_1_to_5_boys,99.6,retention,rate
+Ladakh,retention_rate_primary_1_to_5_boys,79.0,retention,rate
+Lakshadweep,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Madhya Pradesh,retention_rate_primary_1_to_5_boys,88.6,retention,rate
+Maharashtra,retention_rate_primary_1_to_5_boys,97.9,retention,rate
+Manipur,retention_rate_primary_1_to_5_boys,73.6,retention,rate
+Meghalaya,retention_rate_primary_1_to_5_boys,53.6,retention,rate
+Mizoram,retention_rate_primary_1_to_5_boys,61.4,retention,rate
+Nagaland,retention_rate_primary_1_to_5_boys,64.7,retention,rate
+Odisha,retention_rate_primary_1_to_5_boys,87.7,retention,rate
+Puducherry,retention_rate_primary_1_to_5_boys,100.0,retention,rate
+Punjab,retention_rate_primary_1_to_5_boys,90.7,retention,rate
+Rajasthan,retention_rate_primary_1_to_5_boys,75.4,retention,rate
+Sikkim,retention_rate_primary_1_to_5_boys,91.1,retention,rate
+Tamil Nadu,retention_rate_primary_1_to_5_boys,95.2,retention,rate
+Telangana,retention_rate_primary_1_to_5_boys,84.3,retention,rate
+Tripura,retention_rate_primary_1_to_5_boys,93.8,retention,rate
+Uttar Pradesh,retention_rate_primary_1_to_5_boys,79.4,retention,rate
+Uttarakhand,retention_rate_primary_1_to_5_boys,85.0,retention,rate
+West Bengal,retention_rate_primary_1_to_5_boys,84.7,retention,rate
+India,retention_rate_primary_1_to_5_girls,87.5,retention,rate
+Andaman and Nicobar Islands,retention_rate_primary_1_to_5_girls,95.7,retention,rate
+Andhra Pradesh,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Arunachal Pradesh,retention_rate_primary_1_to_5_girls,49.1,retention,rate
+Assam,retention_rate_primary_1_to_5_girls,78.4,retention,rate
+Bihar,retention_rate_primary_1_to_5_girls,86.9,retention,rate
+Chandigarh,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Chhattisgarh,retention_rate_primary_1_to_5_girls,89.9,retention,rate
+Dadra and Nagar Haveli,retention_rate_primary_1_to_5_girls,98.6,retention,rate
+Daman and Diu,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Delhi,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Goa,retention_rate_primary_1_to_5_girls,97.8,retention,rate
+Gujarat,retention_rate_primary_1_to_5_girls,95.3,retention,rate
+Haryana,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Himachal Pradesh,retention_rate_primary_1_to_5_girls,97.2,retention,rate
+Jammu and Kashmir,retention_rate_primary_1_to_5_girls,70.6,retention,rate
+Jharkhand,retention_rate_primary_1_to_5_girls,81.7,retention,rate
+Karnataka,retention_rate_primary_1_to_5_girls,96.2,retention,rate
+Kerala,retention_rate_primary_1_to_5_girls,99.7,retention,rate
+Ladakh,retention_rate_primary_1_to_5_girls,81.1,retention,rate
+Lakshadweep,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Madhya Pradesh,retention_rate_primary_1_to_5_girls,90.8,retention,rate
+Maharashtra,retention_rate_primary_1_to_5_girls,98.0,retention,rate
+Manipur,retention_rate_primary_1_to_5_girls,70.9,retention,rate
+Meghalaya,retention_rate_primary_1_to_5_girls,58.7,retention,rate
+Mizoram,retention_rate_primary_1_to_5_girls,62.8,retention,rate
+Nagaland,retention_rate_primary_1_to_5_girls,66.5,retention,rate
+Odisha,retention_rate_primary_1_to_5_girls,87.6,retention,rate
+Puducherry,retention_rate_primary_1_to_5_girls,100.0,retention,rate
+Punjab,retention_rate_primary_1_to_5_girls,91.9,retention,rate
+Rajasthan,retention_rate_primary_1_to_5_girls,76.6,retention,rate
+Sikkim,retention_rate_primary_1_to_5_girls,94.0,retention,rate
+Tamil Nadu,retention_rate_primary_1_to_5_girls,94.4,retention,rate
+Telangana,retention_rate_primary_1_to_5_girls,84.8,retention,rate
+Tripura,retention_rate_primary_1_to_5_girls,95.9,retention,rate
+Uttar Pradesh,retention_rate_primary_1_to_5_girls,79.6,retention,rate
+Uttarakhand,retention_rate_primary_1_to_5_girls,86.1,retention,rate
+West Bengal,retention_rate_primary_1_to_5_girls,87.6,retention,rate
+India,retention_rate_primary_1_to_5_total,87.0,retention,rate
+Andaman and Nicobar Islands,retention_rate_primary_1_to_5_total,94.9,retention,rate
+Andhra Pradesh,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Arunachal Pradesh,retention_rate_primary_1_to_5_total,47.2,retention,rate
+Assam,retention_rate_primary_1_to_5_total,76.8,retention,rate
+Bihar,retention_rate_primary_1_to_5_total,85.3,retention,rate
+Chandigarh,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Chhattisgarh,retention_rate_primary_1_to_5_total,89.2,retention,rate
+Dadra and Nagar Haveli,retention_rate_primary_1_to_5_total,97.8,retention,rate
+Daman and Diu,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Delhi,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Goa,retention_rate_primary_1_to_5_total,95.8,retention,rate
+Gujarat,retention_rate_primary_1_to_5_total,95.0,retention,rate
+Haryana,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Himachal Pradesh,retention_rate_primary_1_to_5_total,97.5,retention,rate
+Jammu and Kashmir,retention_rate_primary_1_to_5_total,70.8,retention,rate
+Jharkhand,retention_rate_primary_1_to_5_total,80.5,retention,rate
+Karnataka,retention_rate_primary_1_to_5_total,96.1,retention,rate
+Kerala,retention_rate_primary_1_to_5_total,99.7,retention,rate
+Ladakh,retention_rate_primary_1_to_5_total,80.1,retention,rate
+Lakshadweep,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Madhya Pradesh,retention_rate_primary_1_to_5_total,89.7,retention,rate
+Maharashtra,retention_rate_primary_1_to_5_total,98.0,retention,rate
+Manipur,retention_rate_primary_1_to_5_total,72.3,retention,rate
+Meghalaya,retention_rate_primary_1_to_5_total,56.1,retention,rate
+Mizoram,retention_rate_primary_1_to_5_total,62.1,retention,rate
+Nagaland,retention_rate_primary_1_to_5_total,65.6,retention,rate
+Odisha,retention_rate_primary_1_to_5_total,87.7,retention,rate
+Puducherry,retention_rate_primary_1_to_5_total,100.0,retention,rate
+Punjab,retention_rate_primary_1_to_5_total,91.2,retention,rate
+Rajasthan,retention_rate_primary_1_to_5_total,76.0,retention,rate
+Sikkim,retention_rate_primary_1_to_5_total,92.4,retention,rate
+Tamil Nadu,retention_rate_primary_1_to_5_total,94.8,retention,rate
+Telangana,retention_rate_primary_1_to_5_total,84.6,retention,rate
+Tripura,retention_rate_primary_1_to_5_total,94.8,retention,rate
+Uttar Pradesh,retention_rate_primary_1_to_5_total,79.5,retention,rate
+Uttarakhand,retention_rate_primary_1_to_5_total,85.5,retention,rate
+West Bengal,retention_rate_primary_1_to_5_total,86.1,retention,rate
+India,retention_rate_elementary_1_to_8_boys,73.8,retention,rate
+Andaman and Nicobar Islands,retention_rate_elementary_1_to_8_boys,92.4,retention,rate
+Andhra Pradesh,retention_rate_elementary_1_to_8_boys,85.2,retention,rate
+Arunachal Pradesh,retention_rate_elementary_1_to_8_boys,34.2,retention,rate
+Assam,retention_rate_elementary_1_to_8_boys,59.0,retention,rate
+Bihar,retention_rate_elementary_1_to_8_boys,73.2,retention,rate
+Chandigarh,retention_rate_elementary_1_to_8_boys,100.0,retention,rate
+Chhattisgarh,retention_rate_elementary_1_to_8_boys,79.7,retention,rate
+Dadra and Nagar Haveli,retention_rate_elementary_1_to_8_boys,100.0,retention,rate
+Daman and Diu,retention_rate_elementary_1_to_8_boys,91.3,retention,rate
+Delhi,retention_rate_elementary_1_to_8_boys,100.0,retention,rate
+Goa,retention_rate_elementary_1_to_8_boys,96.6,retention,rate
+Gujarat,retention_rate_elementary_1_to_8_boys,91.4,retention,rate
+Haryana,retention_rate_elementary_1_to_8_boys,96.5,retention,rate
+Himachal Pradesh,retention_rate_elementary_1_to_8_boys,96.7,retention,rate
+Jammu and Kashmir,retention_rate_elementary_1_to_8_boys,65.3,retention,rate
+Jharkhand,retention_rate_elementary_1_to_8_boys,60.4,retention,rate
+Karnataka,retention_rate_elementary_1_to_8_boys,86.8,retention,rate
+Kerala,retention_rate_elementary_1_to_8_boys,100.0,retention,rate
+Ladakh,retention_rate_elementary_1_to_8_boys,68.6,retention,rate
+Lakshadweep,retention_rate_elementary_1_to_8_boys,86.3,retention,rate
+Madhya Pradesh,retention_rate_elementary_1_to_8_boys,68.3,retention,rate
+Maharashtra,retention_rate_elementary_1_to_8_boys,94.7,retention,rate
+Manipur,retention_rate_elementary_1_to_8_boys,49.3,retention,rate
+Meghalaya,retention_rate_elementary_1_to_8_boys,42.8,retention,rate
+Mizoram,retention_rate_elementary_1_to_8_boys,47.7,retention,rate
+Nagaland,retention_rate_elementary_1_to_8_boys,45.4,retention,rate
+Odisha,retention_rate_elementary_1_to_8_boys,77.7,retention,rate
+Puducherry,retention_rate_elementary_1_to_8_boys,96.1,retention,rate
+Punjab,retention_rate_elementary_1_to_8_boys,93.4,retention,rate
+Rajasthan,retention_rate_elementary_1_to_8_boys,71.8,retention,rate
+Sikkim,retention_rate_elementary_1_to_8_boys,73.6,retention,rate
+Tamil Nadu,retention_rate_elementary_1_to_8_boys,86.4,retention,rate
+Telangana,retention_rate_elementary_1_to_8_boys,75.4,retention,rate
+Tripura,retention_rate_elementary_1_to_8_boys,78.5,retention,rate
+Uttar Pradesh,retention_rate_elementary_1_to_8_boys,61.2,retention,rate
+Uttarakhand,retention_rate_elementary_1_to_8_boys,82.0,retention,rate
+West Bengal,retention_rate_elementary_1_to_8_boys,57.9,retention,rate
+India,retention_rate_elementary_1_to_8_girls,75.5,retention,rate
+Andaman and Nicobar Islands,retention_rate_elementary_1_to_8_girls,93.5,retention,rate
+Andhra Pradesh,retention_rate_elementary_1_to_8_girls,85.8,retention,rate
+Arunachal Pradesh,retention_rate_elementary_1_to_8_girls,39.0,retention,rate
+Assam,retention_rate_elementary_1_to_8_girls,66.9,retention,rate
+Bihar,retention_rate_elementary_1_to_8_girls,78.5,retention,rate
+Chandigarh,retention_rate_elementary_1_to_8_girls,100.0,retention,rate
+Chhattisgarh,retention_rate_elementary_1_to_8_girls,82.5,retention,rate
+Dadra and Nagar Haveli,retention_rate_elementary_1_to_8_girls,100.0,retention,rate
+Daman and Diu,retention_rate_elementary_1_to_8_girls,99.1,retention,rate
+Delhi,retention_rate_elementary_1_to_8_girls,100.0,retention,rate
+Goa,retention_rate_elementary_1_to_8_girls,96.2,retention,rate
+Gujarat,retention_rate_elementary_1_to_8_girls,88.0,retention,rate
+Haryana,retention_rate_elementary_1_to_8_girls,95.2,retention,rate
+Himachal Pradesh,retention_rate_elementary_1_to_8_girls,95.9,retention,rate
+Jammu and Kashmir,retention_rate_elementary_1_to_8_girls,65.9,retention,rate
+Jharkhand,retention_rate_elementary_1_to_8_girls,65.1,retention,rate
+Karnataka,retention_rate_elementary_1_to_8_girls,88.1,retention,rate
+Kerala,retention_rate_elementary_1_to_8_girls,100.0,retention,rate
+Ladakh,retention_rate_elementary_1_to_8_girls,74.1,retention,rate
+Lakshadweep,retention_rate_elementary_1_to_8_girls,99.8,retention,rate
+Madhya Pradesh,retention_rate_elementary_1_to_8_girls,69.1,retention,rate
+Maharashtra,retention_rate_elementary_1_to_8_girls,94.1,retention,rate
+Manipur,retention_rate_elementary_1_to_8_girls,48.8,retention,rate
+Meghalaya,retention_rate_elementary_1_to_8_girls,51.9,retention,rate
+Mizoram,retention_rate_elementary_1_to_8_girls,51.0,retention,rate
+Nagaland,retention_rate_elementary_1_to_8_girls,48.8,retention,rate
+Odisha,retention_rate_elementary_1_to_8_girls,77.8,retention,rate
+Puducherry,retention_rate_elementary_1_to_8_girls,96.4,retention,rate
+Punjab,retention_rate_elementary_1_to_8_girls,96.6,retention,rate
+Rajasthan,retention_rate_elementary_1_to_8_girls,71.5,retention,rate
+Sikkim,retention_rate_elementary_1_to_8_girls,86.7,retention,rate
+Tamil Nadu,retention_rate_elementary_1_to_8_girls,86.2,retention,rate
+Telangana,retention_rate_elementary_1_to_8_girls,77.6,retention,rate
+Tripura,retention_rate_elementary_1_to_8_girls,82.3,retention,rate
+Uttar Pradesh,retention_rate_elementary_1_to_8_girls,62.1,retention,rate
+Uttarakhand,retention_rate_elementary_1_to_8_girls,83.9,retention,rate
+West Bengal,retention_rate_elementary_1_to_8_girls,65.6,retention,rate
+India,retention_rate_elementary_1_to_8_total,74.6,retention,rate
+Andaman and Nicobar Islands,retention_rate_elementary_1_to_8_total,92.9,retention,rate
+Andhra Pradesh,retention_rate_elementary_1_to_8_total,85.5,retention,rate
+Arunachal Pradesh,retention_rate_elementary_1_to_8_total,36.5,retention,rate
+Assam,retention_rate_elementary_1_to_8_total,62.9,retention,rate
+Bihar,retention_rate_elementary_1_to_8_total,75.8,retention,rate
+Chandigarh,retention_rate_elementary_1_to_8_total,100.0,retention,rate
+Chhattisgarh,retention_rate_elementary_1_to_8_total,81.1,retention,rate
+Dadra and Nagar Haveli,retention_rate_elementary_1_to_8_total,100.0,retention,rate
+Daman and Diu,retention_rate_elementary_1_to_8_total,94.8,retention,rate
+Delhi,retention_rate_elementary_1_to_8_total,100.0,retention,rate
+Goa,retention_rate_elementary_1_to_8_total,96.4,retention,rate
+Gujarat,retention_rate_elementary_1_to_8_total,89.8,retention,rate
+Haryana,retention_rate_elementary_1_to_8_total,95.9,retention,rate
+Himachal Pradesh,retention_rate_elementary_1_to_8_total,96.3,retention,rate
+Jammu and Kashmir,retention_rate_elementary_1_to_8_total,65.6,retention,rate
+Jharkhand,retention_rate_elementary_1_to_8_total,62.7,retention,rate
+Karnataka,retention_rate_elementary_1_to_8_total,87.4,retention,rate
+Kerala,retention_rate_elementary_1_to_8_total,100.0,retention,rate
+Ladakh,retention_rate_elementary_1_to_8_total,71.2,retention,rate
+Lakshadweep,retention_rate_elementary_1_to_8_total,93.0,retention,rate
+Madhya Pradesh,retention_rate_elementary_1_to_8_total,68.6,retention,rate
+Maharashtra,retention_rate_elementary_1_to_8_total,94.4,retention,rate
+Manipur,retention_rate_elementary_1_to_8_total,49.1,retention,rate
+Meghalaya,retention_rate_elementary_1_to_8_total,47.3,retention,rate
+Mizoram,retention_rate_elementary_1_to_8_total,49.2,retention,rate
+Nagaland,retention_rate_elementary_1_to_8_total,47.1,retention,rate
+Odisha,retention_rate_elementary_1_to_8_total,77.8,retention,rate
+Puducherry,retention_rate_elementary_1_to_8_total,96.3,retention,rate
+Punjab,retention_rate_elementary_1_to_8_total,94.8,retention,rate
+Rajasthan,retention_rate_elementary_1_to_8_total,71.7,retention,rate
+Sikkim,retention_rate_elementary_1_to_8_total,79.7,retention,rate
+Tamil Nadu,retention_rate_elementary_1_to_8_total,86.3,retention,rate
+Telangana,retention_rate_elementary_1_to_8_total,76.5,retention,rate
+Tripura,retention_rate_elementary_1_to_8_total,80.4,retention,rate
+Uttar Pradesh,retention_rate_elementary_1_to_8_total,61.6,retention,rate
+Uttarakhand,retention_rate_elementary_1_to_8_total,82.9,retention,rate
+West Bengal,retention_rate_elementary_1_to_8_total,61.7,retention,rate
+India,retention_rate_secondary_1_to_10_boys,59.5,retention,rate
+Andaman and Nicobar Islands,retention_rate_secondary_1_to_10_boys,79.7,retention,rate
+Andhra Pradesh,retention_rate_secondary_1_to_10_boys,73.5,retention,rate
+Arunachal Pradesh,retention_rate_secondary_1_to_10_boys,20.1,retention,rate
+Assam,retention_rate_secondary_1_to_10_boys,36.0,retention,rate
+Bihar,retention_rate_secondary_1_to_10_boys,43.1,retention,rate
+Chandigarh,retention_rate_secondary_1_to_10_boys,92.5,retention,rate
+Chhattisgarh,retention_rate_secondary_1_to_10_boys,53.3,retention,rate
+Dadra and Nagar Haveli,retention_rate_secondary_1_to_10_boys,64.1,retention,rate
+Daman and Diu,retention_rate_secondary_1_to_10_boys,68.1,retention,rate
+Delhi,retention_rate_secondary_1_to_10_boys,83.1,retention,rate
+Goa,retention_rate_secondary_1_to_10_boys,92.7,retention,rate
+Gujarat,retention_rate_secondary_1_to_10_boys,68.9,retention,rate
+Haryana,retention_rate_secondary_1_to_10_boys,96.2,retention,rate
+Himachal Pradesh,retention_rate_secondary_1_to_10_boys,86.2,retention,rate
+Jammu and Kashmir,retention_rate_secondary_1_to_10_boys,51.3,retention,rate
+Jharkhand,retention_rate_secondary_1_to_10_boys,35.1,retention,rate
+Karnataka,retention_rate_secondary_1_to_10_boys,77.4,retention,rate
+Kerala,retention_rate_secondary_1_to_10_boys,100.0,retention,rate
+Ladakh,retention_rate_secondary_1_to_10_boys,57.6,retention,rate
+Lakshadweep,retention_rate_secondary_1_to_10_boys,70.5,retention,rate
+Madhya Pradesh,retention_rate_secondary_1_to_10_boys,44.7,retention,rate
+Maharashtra,retention_rate_secondary_1_to_10_boys,86.1,retention,rate
+Manipur,retention_rate_secondary_1_to_10_boys,42.9,retention,rate
+Meghalaya,retention_rate_secondary_1_to_10_boys,28.9,retention,rate
+Mizoram,retention_rate_secondary_1_to_10_boys,37.4,retention,rate
+Nagaland,retention_rate_secondary_1_to_10_boys,30.1,retention,rate
+Odisha,retention_rate_secondary_1_to_10_boys,58.8,retention,rate
+Puducherry,retention_rate_secondary_1_to_10_boys,87.4,retention,rate
+Punjab,retention_rate_secondary_1_to_10_boys,82.4,retention,rate
+Rajasthan,retention_rate_secondary_1_to_10_boys,57.4,retention,rate
+Sikkim,retention_rate_secondary_1_to_10_boys,42.5,retention,rate
+Tamil Nadu,retention_rate_secondary_1_to_10_boys,81.3,retention,rate
+Telangana,retention_rate_secondary_1_to_10_boys,68.0,retention,rate
+Tripura,retention_rate_secondary_1_to_10_boys,57.2,retention,rate
+Uttar Pradesh,retention_rate_secondary_1_to_10_boys,61.1,retention,rate
+Uttarakhand,retention_rate_secondary_1_to_10_boys,70.7,retention,rate
+West Bengal,retention_rate_secondary_1_to_10_boys,40.4,retention,rate
+India,retention_rate_secondary_1_to_10_girls,59.6,retention,rate
+Andaman and Nicobar Islands,retention_rate_secondary_1_to_10_girls,92.2,retention,rate
+Andhra Pradesh,retention_rate_secondary_1_to_10_girls,75.1,retention,rate
+Arunachal Pradesh,retention_rate_secondary_1_to_10_girls,23.6,retention,rate
+Assam,retention_rate_secondary_1_to_10_girls,43.1,retention,rate
+Bihar,retention_rate_secondary_1_to_10_girls,46.4,retention,rate
+Chandigarh,retention_rate_secondary_1_to_10_girls,98.4,retention,rate
+Chhattisgarh,retention_rate_secondary_1_to_10_girls,62.9,retention,rate
+Dadra and Nagar Haveli,retention_rate_secondary_1_to_10_girls,71.2,retention,rate
+Daman and Diu,retention_rate_secondary_1_to_10_girls,79.1,retention,rate
+Delhi,retention_rate_secondary_1_to_10_girls,80.4,retention,rate
+Goa,retention_rate_secondary_1_to_10_girls,96.5,retention,rate
+Gujarat,retention_rate_secondary_1_to_10_girls,60.6,retention,rate
+Haryana,retention_rate_secondary_1_to_10_girls,90.7,retention,rate
+Himachal Pradesh,retention_rate_secondary_1_to_10_girls,87.8,retention,rate
+Jammu and Kashmir,retention_rate_secondary_1_to_10_girls,50.8,retention,rate
+Jharkhand,retention_rate_secondary_1_to_10_girls,38.4,retention,rate
+Karnataka,retention_rate_secondary_1_to_10_girls,78.9,retention,rate
+Kerala,retention_rate_secondary_1_to_10_girls,100.0,retention,rate
+Ladakh,retention_rate_secondary_1_to_10_girls,67.8,retention,rate
+Lakshadweep,retention_rate_secondary_1_to_10_girls,85.7,retention,rate
+Madhya Pradesh,retention_rate_secondary_1_to_10_girls,42.7,retention,rate
+Maharashtra,retention_rate_secondary_1_to_10_girls,83.3,retention,rate
+Manipur,retention_rate_secondary_1_to_10_girls,43.6,retention,rate
+Meghalaya,retention_rate_secondary_1_to_10_girls,35.8,retention,rate
+Mizoram,retention_rate_secondary_1_to_10_girls,44.6,retention,rate
+Nagaland,retention_rate_secondary_1_to_10_girls,33.9,retention,rate
+Odisha,retention_rate_secondary_1_to_10_girls,62.4,retention,rate
+Puducherry,retention_rate_secondary_1_to_10_girls,92.1,retention,rate
+Punjab,retention_rate_secondary_1_to_10_girls,90.9,retention,rate
+Rajasthan,retention_rate_secondary_1_to_10_girls,52.4,retention,rate
+Sikkim,retention_rate_secondary_1_to_10_girls,58.0,retention,rate
+Tamil Nadu,retention_rate_secondary_1_to_10_girls,83.9,retention,rate
+Telangana,retention_rate_secondary_1_to_10_girls,70.3,retention,rate
+Tripura,retention_rate_secondary_1_to_10_girls,64.0,retention,rate
+Uttar Pradesh,retention_rate_secondary_1_to_10_girls,54.0,retention,rate
+Uttarakhand,retention_rate_secondary_1_to_10_girls,72.8,retention,rate
+West Bengal,retention_rate_secondary_1_to_10_girls,53.2,retention,rate
+India,retention_rate_secondary_1_to_10_total,59.5,retention,rate
+Andaman and Nicobar Islands,retention_rate_secondary_1_to_10_total,85.8,retention,rate
+Andhra Pradesh,retention_rate_secondary_1_to_10_total,74.3,retention,rate
+Arunachal Pradesh,retention_rate_secondary_1_to_10_total,21.8,retention,rate
+Assam,retention_rate_secondary_1_to_10_total,39.5,retention,rate
+Bihar,retention_rate_secondary_1_to_10_total,44.7,retention,rate
+Chandigarh,retention_rate_secondary_1_to_10_total,95.3,retention,rate
+Chhattisgarh,retention_rate_secondary_1_to_10_total,58.0,retention,rate
+Dadra and Nagar Haveli,retention_rate_secondary_1_to_10_total,67.5,retention,rate
+Daman and Diu,retention_rate_secondary_1_to_10_total,73.3,retention,rate
+Delhi,retention_rate_secondary_1_to_10_total,81.8,retention,rate
+Goa,retention_rate_secondary_1_to_10_total,94.5,retention,rate
+Gujarat,retention_rate_secondary_1_to_10_total,65.0,retention,rate
+Haryana,retention_rate_secondary_1_to_10_total,93.7,retention,rate
+Himachal Pradesh,retention_rate_secondary_1_to_10_total,87.0,retention,rate
+Jammu and Kashmir,retention_rate_secondary_1_to_10_total,51.1,retention,rate
+Jharkhand,retention_rate_secondary_1_to_10_total,36.7,retention,rate
+Karnataka,retention_rate_secondary_1_to_10_total,78.1,retention,rate
+Kerala,retention_rate_secondary_1_to_10_total,100.0,retention,rate
+Ladakh,retention_rate_secondary_1_to_10_total,62.5,retention,rate
+Lakshadweep,retention_rate_secondary_1_to_10_total,77.8,retention,rate
+Madhya Pradesh,retention_rate_secondary_1_to_10_total,43.7,retention,rate
+Maharashtra,retention_rate_secondary_1_to_10_total,84.8,retention,rate
+Manipur,retention_rate_secondary_1_to_10_total,43.3,retention,rate
+Meghalaya,retention_rate_secondary_1_to_10_total,32.3,retention,rate
+Mizoram,retention_rate_secondary_1_to_10_total,40.8,retention,rate
+Nagaland,retention_rate_secondary_1_to_10_total,32.0,retention,rate
+Odisha,retention_rate_secondary_1_to_10_total,60.5,retention,rate
+Puducherry,retention_rate_secondary_1_to_10_total,89.7,retention,rate
+Punjab,retention_rate_secondary_1_to_10_total,86.2,retention,rate
+Rajasthan,retention_rate_secondary_1_to_10_total,55.0,retention,rate
+Sikkim,retention_rate_secondary_1_to_10_total,49.8,retention,rate
+Tamil Nadu,retention_rate_secondary_1_to_10_total,82.6,retention,rate
+Telangana,retention_rate_secondary_1_to_10_total,69.1,retention,rate
+Tripura,retention_rate_secondary_1_to_10_total,60.5,retention,rate
+Uttar Pradesh,retention_rate_secondary_1_to_10_total,57.6,retention,rate
+Uttarakhand,retention_rate_secondary_1_to_10_total,71.7,retention,rate
+West Bengal,retention_rate_secondary_1_to_10_total,46.6,retention,rate
+India,retention_rate_higher_secondary_1_to_12_boys,40.0,retention,rate
+Andaman and Nicobar Islands,retention_rate_higher_secondary_1_to_12_boys,49.3,retention,rate
+Andhra Pradesh,retention_rate_higher_secondary_1_to_12_boys,45.5,retention,rate
+Arunachal Pradesh,retention_rate_higher_secondary_1_to_12_boys,10.6,retention,rate
+Assam,retention_rate_higher_secondary_1_to_12_boys,17.0,retention,rate
+Bihar,retention_rate_higher_secondary_1_to_12_boys,19.3,retention,rate
+Chandigarh,retention_rate_higher_secondary_1_to_12_boys,100.0,retention,rate
+Chhattisgarh,retention_rate_higher_secondary_1_to_12_boys,35.0,retention,rate
+Dadra and Nagar Haveli,retention_rate_higher_secondary_1_to_12_boys,42.3,retention,rate
+Daman and Diu,retention_rate_higher_secondary_1_to_12_boys,47.4,retention,rate
+Delhi,retention_rate_higher_secondary_1_to_12_boys,58.0,retention,rate
+Goa,retention_rate_higher_secondary_1_to_12_boys,75.0,retention,rate
+Gujarat,retention_rate_higher_secondary_1_to_12_boys,41.2,retention,rate
+Haryana,retention_rate_higher_secondary_1_to_12_boys,65.7,retention,rate
+Himachal Pradesh,retention_rate_higher_secondary_1_to_12_boys,66.0,retention,rate
+Jammu and Kashmir,retention_rate_higher_secondary_1_to_12_boys,34.3,retention,rate
+Jharkhand,retention_rate_higher_secondary_1_to_12_boys,20.4,retention,rate
+Karnataka,retention_rate_higher_secondary_1_to_12_boys,41.6,retention,rate
+Kerala,retention_rate_higher_secondary_1_to_12_boys,100.0,retention,rate
+Ladakh,retention_rate_higher_secondary_1_to_12_boys,31.8,retention,rate
+Lakshadweep,retention_rate_higher_secondary_1_to_12_boys,77.4,retention,rate
+Madhya Pradesh,retention_rate_higher_secondary_1_to_12_boys,29.2,retention,rate
+Maharashtra,retention_rate_higher_secondary_1_to_12_boys,63.9,retention,rate
+Manipur,retention_rate_higher_secondary_1_to_12_boys,33.1,retention,rate
+Meghalaya,retention_rate_higher_secondary_1_to_12_boys,19.2,retention,rate
+Mizoram,retention_rate_higher_secondary_1_to_12_boys,26.5,retention,rate
+Nagaland,retention_rate_higher_secondary_1_to_12_boys,19.4,retention,rate
+Odisha,retention_rate_higher_secondary_1_to_12_boys,38.9,retention,rate
+Puducherry,retention_rate_higher_secondary_1_to_12_boys,69.9,retention,rate
+Punjab,retention_rate_higher_secondary_1_to_12_boys,89.9,retention,rate
+Rajasthan,retention_rate_higher_secondary_1_to_12_boys,41.6,retention,rate
+Sikkim,retention_rate_higher_secondary_1_to_12_boys,37.4,retention,rate
+Tamil Nadu,retention_rate_higher_secondary_1_to_12_boys,61.1,retention,rate
+Telangana,retention_rate_higher_secondary_1_to_12_boys,41.9,retention,rate
+Tripura,retention_rate_higher_secondary_1_to_12_boys,29.5,retention,rate
+Uttar Pradesh,retention_rate_higher_secondary_1_to_12_boys,44.5,retention,rate
+Uttarakhand,retention_rate_higher_secondary_1_to_12_boys,57.1,retention,rate
+West Bengal,retention_rate_higher_secondary_1_to_12_boys,34.9,retention,rate
+India,retention_rate_higher_secondary_1_to_12_girls,40.4,retention,rate
+Andaman and Nicobar Islands,retention_rate_higher_secondary_1_to_12_girls,63.7,retention,rate
+Andhra Pradesh,retention_rate_higher_secondary_1_to_12_girls,51.4,retention,rate
+Arunachal Pradesh,retention_rate_higher_secondary_1_to_12_girls,13.4,retention,rate
+Assam,retention_rate_higher_secondary_1_to_12_girls,17.5,retention,rate
+Bihar,retention_rate_higher_secondary_1_to_12_girls,18.5,retention,rate
+Chandigarh,retention_rate_higher_secondary_1_to_12_girls,100.0,retention,rate
+Chhattisgarh,retention_rate_higher_secondary_1_to_12_girls,42.7,retention,rate
+Dadra and Nagar Haveli,retention_rate_higher_secondary_1_to_12_girls,48.4,retention,rate
+Daman and Diu,retention_rate_higher_secondary_1_to_12_girls,56.5,retention,rate
+Delhi,retention_rate_higher_secondary_1_to_12_girls,60.9,retention,rate
+Goa,retention_rate_higher_secondary_1_to_12_girls,85.4,retention,rate
+Gujarat,retention_rate_higher_secondary_1_to_12_girls,40.4,retention,rate
+Haryana,retention_rate_higher_secondary_1_to_12_girls,62.5,retention,rate
+Himachal Pradesh,retention_rate_higher_secondary_1_to_12_girls,72.5,retention,rate
+Jammu and Kashmir,retention_rate_higher_secondary_1_to_12_girls,35.0,retention,rate
+Jharkhand,retention_rate_higher_secondary_1_to_12_girls,20.0,retention,rate
+Karnataka,retention_rate_higher_secondary_1_to_12_girls,51.5,retention,rate
+Kerala,retention_rate_higher_secondary_1_to_12_girls,100.0,retention,rate
+Ladakh,retention_rate_higher_secondary_1_to_12_girls,45.4,retention,rate
+Lakshadweep,retention_rate_higher_secondary_1_to_12_girls,82.8,retention,rate
+Madhya Pradesh,retention_rate_higher_secondary_1_to_12_girls,27.4,retention,rate
+Maharashtra,retention_rate_higher_secondary_1_to_12_girls,61.4,retention,rate
+Manipur,retention_rate_higher_secondary_1_to_12_girls,31.7,retention,rate
+Meghalaya,retention_rate_higher_secondary_1_to_12_girls,24.1,retention,rate
+Mizoram,retention_rate_higher_secondary_1_to_12_girls,31.2,retention,rate
+Nagaland,retention_rate_higher_secondary_1_to_12_girls,23.0,retention,rate
+Odisha,retention_rate_higher_secondary_1_to_12_girls,40.7,retention,rate
+Puducherry,retention_rate_higher_secondary_1_to_12_girls,83.8,retention,rate
+Punjab,retention_rate_higher_secondary_1_to_12_girls,92.6,retention,rate
+Rajasthan,retention_rate_higher_secondary_1_to_12_girls,36.8,retention,rate
+Sikkim,retention_rate_higher_secondary_1_to_12_girls,50.3,retention,rate
+Tamil Nadu,retention_rate_higher_secondary_1_to_12_girls,75.6,retention,rate
+Telangana,retention_rate_higher_secondary_1_to_12_girls,48.6,retention,rate
+Tripura,retention_rate_higher_secondary_1_to_12_girls,29.2,retention,rate
+Uttar Pradesh,retention_rate_higher_secondary_1_to_12_girls,39.5,retention,rate
+Uttarakhand,retention_rate_higher_secondary_1_to_12_girls,63.1,retention,rate
+West Bengal,retention_rate_higher_secondary_1_to_12_girls,42.5,retention,rate
+India,retention_rate_higher_secondary_1_to_12_total,40.2,retention,rate
+Andaman and Nicobar Islands,retention_rate_higher_secondary_1_to_12_total,56.2,retention,rate
+Andhra Pradesh,retention_rate_higher_secondary_1_to_12_total,48.4,retention,rate
+Arunachal Pradesh,retention_rate_higher_secondary_1_to_12_total,11.9,retention,rate
+Assam,retention_rate_higher_secondary_1_to_12_total,17.2,retention,rate
+Bihar,retention_rate_higher_secondary_1_to_12_total,18.9,retention,rate
+Chandigarh,retention_rate_higher_secondary_1_to_12_total,100,retention,rate
+Chhattisgarh,retention_rate_higher_secondary_1_to_12_total,38.8,retention,rate
+Dadra and Nagar Haveli,retention_rate_higher_secondary_1_to_12_total,45.2,retention,rate
+Daman and Diu,retention_rate_higher_secondary_1_to_12_total,51.8,retention,rate
+Delhi,retention_rate_higher_secondary_1_to_12_total,59.4,retention,rate
+Goa,retention_rate_higher_secondary_1_to_12_total,80.0,retention,rate
+Gujarat,retention_rate_higher_secondary_1_to_12_total,40.8,retention,rate
+Haryana,retention_rate_higher_secondary_1_to_12_total,64.2,retention,rate
+Himachal Pradesh,retention_rate_higher_secondary_1_to_12_total,69.1,retention,rate
+Jammu and Kashmir,retention_rate_higher_secondary_1_to_12_total,34.6,retention,rate
+Jharkhand,retention_rate_higher_secondary_1_to_12_total,20.2,retention,rate
+Karnataka,retention_rate_higher_secondary_1_to_12_total,46.4,retention,rate
+Kerala,retention_rate_higher_secondary_1_to_12_total,100,retention,rate
+Ladakh,retention_rate_higher_secondary_1_to_12_total,38.5,retention,rate
+Lakshadweep,retention_rate_higher_secondary_1_to_12_total,80.1,retention,rate
+Madhya Pradesh,retention_rate_higher_secondary_1_to_12_total,28.3,retention,rate
+Maharashtra,retention_rate_higher_secondary_1_to_12_total,62.7,retention,rate
+Manipur,retention_rate_higher_secondary_1_to_12_total,32.4,retention,rate
+Meghalaya,retention_rate_higher_secondary_1_to_12_total,21.6,retention,rate
+Mizoram,retention_rate_higher_secondary_1_to_12_total,28.8,retention,rate
+Nagaland,retention_rate_higher_secondary_1_to_12_total,21.1,retention,rate
+Odisha,retention_rate_higher_secondary_1_to_12_total,39.7,retention,rate
+Puducherry,retention_rate_higher_secondary_1_to_12_total,76.6,retention,rate
+Punjab,retention_rate_higher_secondary_1_to_12_total,91.1,retention,rate
+Rajasthan,retention_rate_higher_secondary_1_to_12_total,39.3,retention,rate
+Sikkim,retention_rate_higher_secondary_1_to_12_total,43.6,retention,rate
+Tamil Nadu,retention_rate_higher_secondary_1_to_12_total,68.1,retention,rate
+Telangana,retention_rate_higher_secondary_1_to_12_total,45.2,retention,rate
+Tripura,retention_rate_higher_secondary_1_to_12_total,29.4,retention,rate
+Uttar Pradesh,retention_rate_higher_secondary_1_to_12_total,42.1,retention,rate
+Uttarakhand,retention_rate_higher_secondary_1_to_12_total,59.9,retention,rate
+West Bengal,retention_rate_higher_secondary_1_to_12_total,38.6,retention,rate

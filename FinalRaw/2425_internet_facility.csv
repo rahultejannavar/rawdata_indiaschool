@@ -1,0 +1,556 @@
+state_ut,variable,value,level,category
+India,total_schools_all_management,1471473,total,schools
+Andaman & Nicobar Islands,total_schools_all_management,408,total,schools
+Andhra Pradesh,total_schools_all_management,61317,total,schools
+Arunachal Pradesh,total_schools_all_management,3229,total,schools
+Assam,total_schools_all_management,55263,total,schools
+Bihar,total_schools_all_management,94339,total,schools
+Chandigarh,total_schools_all_management,207,total,schools
+Chhattisgarh,total_schools_all_management,56802,total,schools
+Dadra & Nagar Haveli and Daman & Diu,total_schools_all_management,433,total,schools
+Delhi,total_schools_all_management,5556,total,schools
+Goa,total_schools_all_management,1479,total,schools
+Gujarat,total_schools_all_management,53355,total,schools
+Haryana,total_schools_all_management,23494,total,schools
+Himachal Pradesh,total_schools_all_management,17330,total,schools
+Jammu & Kashmir,total_schools_all_management,24192,total,schools
+Jharkhand,total_schools_all_management,44376,total,schools
+Karnataka,total_schools_all_management,74859,total,schools
+Kerala,total_schools_all_management,15757,total,schools
+Ladakh,total_schools_all_management,961,total,schools
+Lakshadweep,total_schools_all_management,36,total,schools
+Madhya Pradesh,total_schools_all_management,122120,total,schools
+Maharashtra,total_schools_all_management,108250,total,schools
+Manipur,total_schools_all_management,4666,total,schools
+Meghalaya,total_schools_all_management,14587,total,schools
+Mizoram,total_schools_all_management,3974,total,schools
+Nagaland,total_schools_all_management,2750,total,schools
+Odisha,total_schools_all_management,61565,total,schools
+Puducherry,total_schools_all_management,763,total,schools
+Punjab,total_schools_all_management,27281,total,schools
+Rajasthan,total_schools_all_management,106302,total,schools
+Sikkim,total_schools_all_management,1245,total,schools
+Tamil Nadu,total_schools_all_management,57935,total,schools
+Telangana,total_schools_all_management,43154,total,schools
+Tripura,total_schools_all_management,4943,total,schools
+Uttar Pradesh,total_schools_all_management,262358,total,schools
+Uttarakhand,total_schools_all_management,22452,total,schools
+West Bengal,total_schools_all_management,93715,total,schools
+India,total_schools_govt_,1013322,total,schools
+Andaman & Nicobar Islands,total_schools_govt_,335,total,schools
+Andhra Pradesh,total_schools_govt_,44886,total,schools
+Arunachal Pradesh,total_schools_govt_,2558,total,schools
+Assam,total_schools_govt_,44741,total,schools
+Bihar,total_schools_govt_,76320,total,schools
+Chandigarh,total_schools_govt_,118,total,schools
+Chhattisgarh,total_schools_govt_,48827,total,schools
+Dadra & Nagar Haveli and Daman & Diu,total_schools_govt_,361,total,schools
+Delhi,total_schools_govt_,2681,total,schools
+Goa,total_schools_govt_,780,total,schools
+Gujarat,total_schools_govt_,34638,total,schools
+Haryana,total_schools_govt_,14338,total,schools
+Himachal Pradesh,total_schools_govt_,14725,total,schools
+Jammu & Kashmir,total_schools_govt_,18785,total,schools
+Jharkhand,total_schools_govt_,35788,total,schools
+Karnataka,total_schools_govt_,48844,total,schools
+Kerala,total_schools_govt_,4808,total,schools
+Ladakh,total_schools_govt_,812,total,schools
+Lakshadweep,total_schools_govt_,36,total,schools
+Madhya Pradesh,total_schools_govt_,92250,total,schools
+Maharashtra,total_schools_govt_,64846,total,schools
+Manipur,total_schools_govt_,2952,total,schools
+Meghalaya,total_schools_govt_,7789,total,schools
+Mizoram,total_schools_govt_,2617,total,schools
+Nagaland,total_schools_govt_,1926,total,schools
+Odisha,total_schools_govt_,48625,total,schools
+Puducherry,total_schools_govt_,419,total,schools
+Punjab,total_schools_govt_,19243,total,schools
+Rajasthan,total_schools_govt_,70155,total,schools
+Sikkim,total_schools_govt_,857,total,schools
+Tamil Nadu,total_schools_govt_,37626,total,schools
+Telangana,total_schools_govt_,30057,total,schools
+Tripura,total_schools_govt_,4187,total,schools
+Uttar Pradesh,total_schools_govt_,137172,total,schools
+Uttarakhand,total_schools_govt_,16018,total,schools
+West Bengal,total_schools_govt_,82154,total,schools
+India,total_schools_pvt_aided,79349,total,schools
+Andaman & Nicobar Islands,total_schools_pvt_aided,2,total,schools
+Andhra Pradesh,total_schools_pvt_aided,838,total,schools
+Arunachal Pradesh,total_schools_pvt_aided,72,total,schools
+Assam,total_schools_pvt_aided,1587,total,schools
+Bihar,total_schools_pvt_aided,712,total,schools
+Chandigarh,total_schools_pvt_aided,7,total,schools
+Chhattisgarh,total_schools_pvt_aided,413,total,schools
+Dadra & Nagar Haveli and Daman & Diu,total_schools_pvt_aided,8,total,schools
+Delhi,total_schools_pvt_aided,238,total,schools
+Goa,total_schools_pvt_aided,558,total,schools
+Gujarat,total_schools_pvt_aided,5522,total,schools
+Haryana,total_schools_pvt_aided,4,total,schools
+Himachal Pradesh,total_schools_pvt_aided,0,total,schools
+Jammu & Kashmir,total_schools_pvt_aided,1,total,schools
+Jharkhand,total_schools_pvt_aided,1155,total,schools
+Karnataka,total_schools_pvt_aided,6905,total,schools
+Kerala,total_schools_pvt_aided,7164,total,schools
+Ladakh,total_schools_pvt_aided,38,total,schools
+Lakshadweep,total_schools_pvt_aided,0,total,schools
+Madhya Pradesh,total_schools_pvt_aided,550,total,schools
+Maharashtra,total_schools_pvt_aided,24406,total,schools
+Manipur,total_schools_pvt_aided,585,total,schools
+Meghalaya,total_schools_pvt_aided,4172,total,schools
+Mizoram,total_schools_pvt_aided,232,total,schools
+Nagaland,total_schools_pvt_aided,0,total,schools
+Odisha,total_schools_pvt_aided,5868,total,schools
+Puducherry,total_schools_pvt_aided,33,total,schools
+Punjab,total_schools_pvt_aided,437,total,schools
+Rajasthan,total_schools_pvt_aided,0,total,schools
+Sikkim,total_schools_pvt_aided,16,total,schools
+Tamil Nadu,total_schools_pvt_aided,8254,total,schools
+Telangana,total_schools_pvt_aided,579,total,schools
+Tripura,total_schools_pvt_aided,42,total,schools
+Uttar Pradesh,total_schools_pvt_aided,8262,total,schools
+Uttarakhand,total_schools_pvt_aided,615,total,schools
+West Bengal,total_schools_pvt_aided,74,total,schools
+India,total_schools_pvt_unaided,339583,total,schools
+Andaman & Nicobar Islands,total_schools_pvt_unaided,71,total,schools
+Andhra Pradesh,total_schools_pvt_unaided,15473,total,schools
+Arunachal Pradesh,total_schools_pvt_unaided,571,total,schools
+Assam,total_schools_pvt_unaided,6480,total,schools
+Bihar,total_schools_pvt_unaided,11274,total,schools
+Chandigarh,total_schools_pvt_unaided,82,total,schools
+Chhattisgarh,total_schools_pvt_unaided,7382,total,schools
+Dadra & Nagar Haveli and Daman & Diu,total_schools_pvt_unaided,63,total,schools
+Delhi,total_schools_pvt_unaided,2637,total,schools
+Goa,total_schools_pvt_unaided,141,total,schools
+Gujarat,total_schools_pvt_unaided,13190,total,schools
+Haryana,total_schools_pvt_unaided,8499,total,schools
+Himachal Pradesh,total_schools_pvt_unaided,2603,total,schools
+Jammu & Kashmir,total_schools_pvt_unaided,5359,total,schools
+Jharkhand,total_schools_pvt_unaided,1707,total,schools
+Karnataka,total_schools_pvt_unaided,19105,total,schools
+Kerala,total_schools_pvt_unaided,3018,total,schools
+Ladakh,total_schools_pvt_unaided,111,total,schools
+Lakshadweep,total_schools_pvt_unaided,0,total,schools
+Madhya Pradesh,total_schools_pvt_unaided,28212,total,schools
+Maharashtra,total_schools_pvt_unaided,18746,total,schools
+Manipur,total_schools_pvt_unaided,1030,total,schools
+Meghalaya,total_schools_pvt_unaided,2135,total,schools
+Mizoram,total_schools_pvt_unaided,1068,total,schools
+Nagaland,total_schools_pvt_unaided,814,total,schools
+Odisha,total_schools_pvt_unaided,6107,total,schools
+Puducherry,total_schools_pvt_unaided,311,total,schools
+Punjab,total_schools_pvt_unaided,7589,total,schools
+Rajasthan,total_schools_pvt_unaided,33548,total,schools
+Sikkim,total_schools_pvt_unaided,372,total,schools
+Tamil Nadu,total_schools_pvt_unaided,11890,total,schools
+Telangana,total_schools_pvt_unaided,12474,total,schools
+Tripura,total_schools_pvt_unaided,485,total,schools
+Uttar Pradesh,total_schools_pvt_unaided,104508,total,schools
+Uttarakhand,total_schools_pvt_unaided,5352,total,schools
+West Bengal,total_schools_pvt_unaided,7176,total,schools
+India,total_schools_others,39219,total,schools
+Andaman & Nicobar Islands,total_schools_others,0,total,schools
+Andhra Pradesh,total_schools_others,120,total,schools
+Arunachal Pradesh,total_schools_others,28,total,schools
+Assam,total_schools_others,2475,total,schools
+Bihar,total_schools_others,6033,total,schools
+Chandigarh,total_schools_others,0,total,schools
+Chhattisgarh,total_schools_others,180,total,schools
+Dadra & Nagar Haveli and Daman & Diu,total_schools_others,1,total,schools
+Delhi,total_schools_others,0,total,schools
+Goa,total_schools_others,0,total,schools
+Gujarat,total_schools_others,5,total,schools
+Haryana,total_schools_others,653,total,schools
+Himachal Pradesh,total_schools_others,2,total,schools
+Jammu & Kashmir,total_schools_others,47,total,schools
+Jharkhand,total_schools_others,5726,total,schools
+Karnataka,total_schools_others,5,total,schools
+Kerala,total_schools_others,767,total,schools
+Ladakh,total_schools_others,0,total,schools
+Lakshadweep,total_schools_others,0,total,schools
+Madhya Pradesh,total_schools_others,1108,total,schools
+Maharashtra,total_schools_others,214,total,schools
+Manipur,total_schools_others,99,total,schools
+Meghalaya,total_schools_others,491,total,schools
+Mizoram,total_schools_others,57,total,schools
+Nagaland,total_schools_others,0,total,schools
+Odisha,total_schools_others,965,total,schools
+Puducherry,total_schools_others,0,total,schools
+Punjab,total_schools_others,12,total,schools
+Rajasthan,total_schools_others,2599,total,schools
+Sikkim,total_schools_others,0,total,schools
+Tamil Nadu,total_schools_others,165,total,schools
+Telangana,total_schools_others,44,total,schools
+Tripura,total_schools_others,229,total,schools
+Uttar Pradesh,total_schools_others,12416,total,schools
+Uttarakhand,total_schools_others,467,total,schools
+West Bengal,total_schools_others,4311,total,schools
+India,schools_with_internet_facility_all_management,933987,schools,with
+Andaman & Nicobar Islands,schools_with_internet_facility_all_management,264,schools,with
+Andhra Pradesh,schools_with_internet_facility_all_management,60731,schools,with
+Arunachal Pradesh,schools_with_internet_facility_all_management,1086,schools,with
+Assam,schools_with_internet_facility_all_management,48201,schools,with
+Bihar,schools_with_internet_facility_all_management,80035,schools,with
+Chandigarh,schools_with_internet_facility_all_management,207,schools,with
+Chhattisgarh,schools_with_internet_facility_all_management,36511,schools,with
+Dadra & Nagar Haveli and Daman & Diu,schools_with_internet_facility_all_management,431,schools,with
+Delhi,schools_with_internet_facility_all_management,5556,schools,with
+Goa,schools_with_internet_facility_all_management,1379,schools,with
+Gujarat,schools_with_internet_facility_all_management,51514,schools,with
+Haryana,schools_with_internet_facility_all_management,18539,schools,with
+Himachal Pradesh,schools_with_internet_facility_all_management,11011,schools,with
+Jammu & Kashmir,schools_with_internet_facility_all_management,11883,schools,with
+Jharkhand,schools_with_internet_facility_all_management,25713,schools,with
+Karnataka,schools_with_internet_facility_all_management,37921,schools,with
+Kerala,schools_with_internet_facility_all_management,14442,schools,with
+Ladakh,schools_with_internet_facility_all_management,488,schools,with
+Lakshadweep,schools_with_internet_facility_all_management,36,schools,with
+Madhya Pradesh,schools_with_internet_facility_all_management,55865,schools,with
+Maharashtra,schools_with_internet_facility_all_management,78084,schools,with
+Manipur,schools_with_internet_facility_all_management,1709,schools,with
+Meghalaya,schools_with_internet_facility_all_management,3858,schools,with
+Mizoram,schools_with_internet_facility_all_management,1622,schools,with
+Nagaland,schools_with_internet_facility_all_management,1622,schools,with
+Odisha,schools_with_internet_facility_all_management,51588,schools,with
+Puducherry,schools_with_internet_facility_all_management,760,schools,with
+Punjab,schools_with_internet_facility_all_management,24249,schools,with
+Rajasthan,schools_with_internet_facility_all_management,74358,schools,with
+Sikkim,schools_with_internet_facility_all_management,643,schools,with
+Tamil Nadu,schools_with_internet_facility_all_management,49211,schools,with
+Telangana,schools_with_internet_facility_all_management,20309,schools,with
+Tripura,schools_with_internet_facility_all_management,1702,schools,with
+Uttar Pradesh,schools_with_internet_facility_all_management,120465,schools,with
+Uttarakhand,schools_with_internet_facility_all_management,16236,schools,with
+West Bengal,schools_with_internet_facility_all_management,17441,schools,with
+India,schools_with_internet_facility_govt_,536415,schools,with
+Andaman & Nicobar Islands,schools_with_internet_facility_govt_,198,schools,with
+Andhra Pradesh,schools_with_internet_facility_govt_,44311,schools,with
+Arunachal Pradesh,schools_with_internet_facility_govt_,620,schools,with
+Assam,schools_with_internet_facility_govt_,43874,schools,with
+Bihar,schools_with_internet_facility_govt_,64658,schools,with
+Chandigarh,schools_with_internet_facility_govt_,118,schools,with
+Chhattisgarh,schools_with_internet_facility_govt_,30439,schools,with
+Dadra & Nagar Haveli and Daman & Diu,schools_with_internet_facility_govt_,360,schools,with
+Delhi,schools_with_internet_facility_govt_,2681,schools,with
+Goa,schools_with_internet_facility_govt_,695,schools,with
+Gujarat,schools_with_internet_facility_govt_,33726,schools,with
+Haryana,schools_with_internet_facility_govt_,9930,schools,with
+Himachal Pradesh,schools_with_internet_facility_govt_,8707,schools,with
+Jammu & Kashmir,schools_with_internet_facility_govt_,7999,schools,with
+Jharkhand,schools_with_internet_facility_govt_,19956,schools,with
+Karnataka,schools_with_internet_facility_govt_,17712,schools,with
+Kerala,schools_with_internet_facility_govt_,4287,schools,with
+Ladakh,schools_with_internet_facility_govt_,391,schools,with
+Lakshadweep,schools_with_internet_facility_govt_,36,schools,with
+Madhya Pradesh,schools_with_internet_facility_govt_,32568,schools,with
+Maharashtra,schools_with_internet_facility_govt_,39265,schools,with
+Manipur,schools_with_internet_facility_govt_,764,schools,with
+Meghalaya,schools_with_internet_facility_govt_,1937,schools,with
+Mizoram,schools_with_internet_facility_govt_,980,schools,with
+Nagaland,schools_with_internet_facility_govt_,980,schools,with
+Odisha,schools_with_internet_facility_govt_,40335,schools,with
+Puducherry,schools_with_internet_facility_govt_,419,schools,with
+Punjab,schools_with_internet_facility_govt_,16711,schools,with
+Rajasthan,schools_with_internet_facility_govt_,45263,schools,with
+Sikkim,schools_with_internet_facility_govt_,383,schools,with
+Tamil Nadu,schools_with_internet_facility_govt_,32297,schools,with
+Telangana,schools_with_internet_facility_govt_,15902,schools,with
+Tripura,schools_with_internet_facility_govt_,189,schools,with
+Uttar Pradesh,schools_with_internet_facility_govt_,48897,schools,with
+Uttarakhand,schools_with_internet_facility_govt_,10700,schools,with
+West Bengal,schools_with_internet_facility_govt_,13147,schools,with
+India,schools_with_internet_facility_pvt_aided,58233,schools,with
+Andaman & Nicobar Islands,schools_with_internet_facility_pvt_aided,2,schools,with
+Andhra Pradesh,schools_with_internet_facility_pvt_aided,834,schools,with
+Arunachal Pradesh,schools_with_internet_facility_pvt_aided,49,schools,with
+Assam,schools_with_internet_facility_pvt_aided,377,schools,with
+Bihar,schools_with_internet_facility_pvt_aided,542,schools,with
+Chandigarh,schools_with_internet_facility_pvt_aided,7,schools,with
+Chhattisgarh,schools_with_internet_facility_pvt_aided,280,schools,with
+Dadra & Nagar Haveli and Daman & Diu,schools_with_internet_facility_pvt_aided,8,schools,with
+Delhi,schools_with_internet_facility_pvt_aided,238,schools,with
+Goa,schools_with_internet_facility_pvt_aided,546,schools,with
+Gujarat,schools_with_internet_facility_pvt_aided,5100,schools,with
+Haryana,schools_with_internet_facility_pvt_aided,3,schools,with
+Himachal Pradesh,schools_with_internet_facility_pvt_aided,0,schools,with
+Jammu & Kashmir,schools_with_internet_facility_pvt_aided,1,schools,with
+Jharkhand,schools_with_internet_facility_pvt_aided,558,schools,with
+Karnataka,schools_with_internet_facility_pvt_aided,4264,schools,with
+Kerala,schools_with_internet_facility_pvt_aided,6468,schools,with
+Ladakh,schools_with_internet_facility_pvt_aided,24,schools,with
+Lakshadweep,schools_with_internet_facility_pvt_aided,0,schools,with
+Madhya Pradesh,schools_with_internet_facility_pvt_aided,276,schools,with
+Maharashtra,schools_with_internet_facility_pvt_aided,21093,schools,with
+Manipur,schools_with_internet_facility_pvt_aided,119,schools,with
+Meghalaya,schools_with_internet_facility_pvt_aided,1151,schools,with
+Mizoram,schools_with_internet_facility_pvt_aided,151,schools,with
+Nagaland,schools_with_internet_facility_pvt_aided,0,schools,with
+Odisha,schools_with_internet_facility_pvt_aided,5025,schools,with
+Puducherry,schools_with_internet_facility_pvt_aided,33,schools,with
+Punjab,schools_with_internet_facility_pvt_aided,400,schools,with
+Rajasthan,schools_with_internet_facility_pvt_aided,0,schools,with
+Sikkim,schools_with_internet_facility_pvt_aided,5,schools,with
+Tamil Nadu,schools_with_internet_facility_pvt_aided,5297,schools,with
+Telangana,schools_with_internet_facility_pvt_aided,257,schools,with
+Tripura,schools_with_internet_facility_pvt_aided,18,schools,with
+Uttar Pradesh,schools_with_internet_facility_pvt_aided,4592,schools,with
+Uttarakhand,schools_with_internet_facility_pvt_aided,463,schools,with
+West Bengal,schools_with_internet_facility_pvt_aided,52,schools,with
+India,schools_with_internet_facility_pvt_unaided,261882,schools,with
+Andaman & Nicobar Islands,schools_with_internet_facility_pvt_unaided,64,schools,with
+Andhra Pradesh,schools_with_internet_facility_pvt_unaided,15466,schools,with
+Arunachal Pradesh,schools_with_internet_facility_pvt_unaided,405,schools,with
+Assam,schools_with_internet_facility_pvt_unaided,3545,schools,with
+Bihar,schools_with_internet_facility_pvt_unaided,10100,schools,with
+Chandigarh,schools_with_internet_facility_pvt_unaided,82,schools,with
+Chhattisgarh,schools_with_internet_facility_pvt_unaided,5707,schools,with
+Dadra & Nagar Haveli and Daman & Diu,schools_with_internet_facility_pvt_unaided,62,schools,with
+Delhi,schools_with_internet_facility_pvt_unaided,2637,schools,with
+Goa,schools_with_internet_facility_pvt_unaided,138,schools,with
+Gujarat,schools_with_internet_facility_pvt_unaided,12683,schools,with
+Haryana,schools_with_internet_facility_pvt_unaided,8032,schools,with
+Himachal Pradesh,schools_with_internet_facility_pvt_unaided,2303,schools,with
+Jammu & Kashmir,schools_with_internet_facility_pvt_unaided,3850,schools,with
+Jharkhand,schools_with_internet_facility_pvt_unaided,1444,schools,with
+Karnataka,schools_with_internet_facility_pvt_unaided,15942,schools,with
+Kerala,schools_with_internet_facility_pvt_unaided,2983,schools,with
+Ladakh,schools_with_internet_facility_pvt_unaided,73,schools,with
+Lakshadweep,schools_with_internet_facility_pvt_unaided,0,schools,with
+Madhya Pradesh,schools_with_internet_facility_pvt_unaided,22465,schools,with
+Maharashtra,schools_with_internet_facility_pvt_unaided,17533,schools,with
+Manipur,schools_with_internet_facility_pvt_unaided,784,schools,with
+Meghalaya,schools_with_internet_facility_pvt_unaided,657,schools,with
+Mizoram,schools_with_internet_facility_pvt_unaided,735,schools,with
+Nagaland,schools_with_internet_facility_pvt_unaided,642,schools,with
+Odisha,schools_with_internet_facility_pvt_unaided,5412,schools,with
+Puducherry,schools_with_internet_facility_pvt_unaided,308,schools,with
+Punjab,schools_with_internet_facility_pvt_unaided,7131,schools,with
+Rajasthan,schools_with_internet_facility_pvt_unaided,28187,schools,with
+Sikkim,schools_with_internet_facility_pvt_unaided,255,schools,with
+Tamil Nadu,schools_with_internet_facility_pvt_unaided,11457,schools,with
+Telangana,schools_with_internet_facility_pvt_unaided,11138,schools,with
+Tripura,schools_with_internet_facility_pvt_unaided,319,schools,with
+Uttar Pradesh,schools_with_internet_facility_pvt_unaided,61827,schools,with
+Uttarakhand,schools_with_internet_facility_pvt_unaided,4660,schools,with
+West Bengal,schools_with_internet_facility_pvt_unaided,2856,schools,with
+India,schools_with_internet_facility_others,20257,schools,with
+Andaman & Nicobar Islands,schools_with_internet_facility_others,0,schools,with
+Andhra Pradesh,schools_with_internet_facility_others,120,schools,with
+Arunachal Pradesh,schools_with_internet_facility_others,12,schools,with
+Assam,schools_with_internet_facility_others,405,schools,with
+Bihar,schools_with_internet_facility_others,4735,schools,with
+Chandigarh,schools_with_internet_facility_others,0,schools,with
+Chhattisgarh,schools_with_internet_facility_others,85,schools,with
+Dadra & Nagar Haveli and Daman & Diu,schools_with_internet_facility_others,1,schools,with
+Delhi,schools_with_internet_facility_others,0,schools,with
+Goa,schools_with_internet_facility_others,0,schools,with
+Gujarat,schools_with_internet_facility_others,5,schools,with
+Haryana,schools_with_internet_facility_others,574,schools,with
+Himachal Pradesh,schools_with_internet_facility_others,1,schools,with
+Jammu & Kashmir,schools_with_internet_facility_others,33,schools,with
+Jharkhand,schools_with_internet_facility_others,3757,schools,with
+Karnataka,schools_with_internet_facility_others,3,schools,with
+Kerala,schools_with_internet_facility_others,704,schools,with
+Ladakh,schools_with_internet_facility_others,0,schools,with
+Lakshadweep,schools_with_internet_facility_others,0,schools,with
+Madhya Pradesh,schools_with_internet_facility_others,556,schools,with
+Maharashtra,schools_with_internet_facility_others,193,schools,with
+Manipur,schools_with_internet_facility_others,42,schools,with
+Meghalaya,schools_with_internet_facility_others,113,schools,with
+Mizoram,schools_with_internet_facility_others,47,schools,with
+Nagaland,schools_with_internet_facility_others,0,schools,with
+Odisha,schools_with_internet_facility_others,816,schools,with
+Puducherry,schools_with_internet_facility_others,0,schools,with
+Punjab,schools_with_internet_facility_others,7,schools,with
+Rajasthan,schools_with_internet_facility_others,908,schools,with
+Sikkim,schools_with_internet_facility_others,0,schools,with
+Tamil Nadu,schools_with_internet_facility_others,160,schools,with
+Telangana,schools_with_internet_facility_others,12,schools,with
+Tripura,schools_with_internet_facility_others,20,schools,with
+Uttar Pradesh,schools_with_internet_facility_others,5149,schools,with
+Uttarakhand,schools_with_internet_facility_others,413,schools,with
+West Bengal,schools_with_internet_facility_others,1386,schools,with
+India,_of_schools_with_internet_facility_all_management,63.5,,of
+Andaman & Nicobar Islands,_of_schools_with_internet_facility_all_management,64.7,,of
+Andhra Pradesh,_of_schools_with_internet_facility_all_management,99.0,,of
+Arunachal Pradesh,_of_schools_with_internet_facility_all_management,33.6,,of
+Assam,_of_schools_with_internet_facility_all_management,87.2,,of
+Bihar,_of_schools_with_internet_facility_all_management,84.8,,of
+Chandigarh,_of_schools_with_internet_facility_all_management,100.0,,of
+Chhattisgarh,_of_schools_with_internet_facility_all_management,64.3,,of
+Dadra & Nagar Haveli and Daman & Diu,_of_schools_with_internet_facility_all_management,99.5,,of
+Delhi,_of_schools_with_internet_facility_all_management,100.0,,of
+Goa,_of_schools_with_internet_facility_all_management,93.2,,of
+Gujarat,_of_schools_with_internet_facility_all_management,96.5,,of
+Haryana,_of_schools_with_internet_facility_all_management,78.9,,of
+Himachal Pradesh,_of_schools_with_internet_facility_all_management,63.5,,of
+Jammu & Kashmir,_of_schools_with_internet_facility_all_management,49.1,,of
+Jharkhand,_of_schools_with_internet_facility_all_management,57.9,,of
+Karnataka,_of_schools_with_internet_facility_all_management,50.7,,of
+Kerala,_of_schools_with_internet_facility_all_management,91.7,,of
+Ladakh,_of_schools_with_internet_facility_all_management,50.8,,of
+Lakshadweep,_of_schools_with_internet_facility_all_management,100.0,,of
+Madhya Pradesh,_of_schools_with_internet_facility_all_management,45.7,,of
+Maharashtra,_of_schools_with_internet_facility_all_management,72.1,,of
+Manipur,_of_schools_with_internet_facility_all_management,36.6,,of
+Meghalaya,_of_schools_with_internet_facility_all_management,26.4,,of
+Mizoram,_of_schools_with_internet_facility_all_management,64.9,,of
+Nagaland,_of_schools_with_internet_facility_all_management,59.0,,of
+Odisha,_of_schools_with_internet_facility_all_management,83.8,,of
+Puducherry,_of_schools_with_internet_facility_all_management,99.6,,of
+Punjab,_of_schools_with_internet_facility_all_management,88.9,,of
+Rajasthan,_of_schools_with_internet_facility_all_management,69.9,,of
+Sikkim,_of_schools_with_internet_facility_all_management,51.6,,of
+Tamil Nadu,_of_schools_with_internet_facility_all_management,84.9,,of
+Telangana,_of_schools_with_internet_facility_all_management,63.3,,of
+Tripura,_of_schools_with_internet_facility_all_management,41.7,,of
+Uttar Pradesh,_of_schools_with_internet_facility_all_management,45.9,,of
+Uttarakhand,_of_schools_with_internet_facility_all_management,72.3,,of
+West Bengal,_of_schools_with_internet_facility_all_management,18.6,,of
+India,_of_schools_with_internet_facility_govt_,58.6,,of
+Andaman & Nicobar Islands,_of_schools_with_internet_facility_govt_,59.1,,of
+Andhra Pradesh,_of_schools_with_internet_facility_govt_,98.7,,of
+Arunachal Pradesh,_of_schools_with_internet_facility_govt_,24.2,,of
+Assam,_of_schools_with_internet_facility_govt_,98.1,,of
+Bihar,_of_schools_with_internet_facility_govt_,84.7,,of
+Chandigarh,_of_schools_with_internet_facility_govt_,100.0,,of
+Chhattisgarh,_of_schools_with_internet_facility_govt_,62.3,,of
+Dadra & Nagar Haveli and Daman & Diu,_of_schools_with_internet_facility_govt_,99.7,,of
+Delhi,_of_schools_with_internet_facility_govt_,100.0,,of
+Goa,_of_schools_with_internet_facility_govt_,89.1,,of
+Gujarat,_of_schools_with_internet_facility_govt_,97.4,,of
+Haryana,_of_schools_with_internet_facility_govt_,69.3,,of
+Himachal Pradesh,_of_schools_with_internet_facility_govt_,59.1,,of
+Jammu & Kashmir,_of_schools_with_internet_facility_govt_,42.6,,of
+Jharkhand,_of_schools_with_internet_facility_govt_,55.8,,of
+Karnataka,_of_schools_with_internet_facility_govt_,36.3,,of
+Kerala,_of_schools_with_internet_facility_govt_,89.2,,of
+Ladakh,_of_schools_with_internet_facility_govt_,48.2,,of
+Lakshadweep,_of_schools_with_internet_facility_govt_,100.0,,of
+Madhya Pradesh,_of_schools_with_internet_facility_govt_,35.3,,of
+Maharashtra,_of_schools_with_internet_facility_govt_,60.5,,of
+Manipur,_of_schools_with_internet_facility_govt_,25.9,,of
+Meghalaya,_of_schools_with_internet_facility_govt_,24.9,,of
+Mizoram,_of_schools_with_internet_facility_govt_,62.9,,of
+Nagaland,_of_schools_with_internet_facility_govt_,50.6,,of
+Odisha,_of_schools_with_internet_facility_govt_,83.0,,of
+Puducherry,_of_schools_with_internet_facility_govt_,100.0,,of
+Punjab,_of_schools_with_internet_facility_govt_,86.8,,of
+Rajasthan,_of_schools_with_internet_facility_govt_,64.5,,of
+Sikkim,_of_schools_with_internet_facility_govt_,44.7,,of
+Tamil Nadu,_of_schools_with_internet_facility_govt_,85.8,,of
+Telangana,_of_schools_with_internet_facility_govt_,52.9,,of
+Tripura,_of_schools_with_internet_facility_govt_,40.6,,of
+Uttar Pradesh,_of_schools_with_internet_facility_govt_,35.6,,of
+Uttarakhand,_of_schools_with_internet_facility_govt_,66.8,,of
+West Bengal,_of_schools_with_internet_facility_govt_,16.0,,of
+India,_of_schools_with_internet_facility_pvt_aided,73.4,,of
+Andaman & Nicobar Islands,_of_schools_with_internet_facility_pvt_aided,100.0,,of
+Andhra Pradesh,_of_schools_with_internet_facility_pvt_aided,99.5,,of
+Arunachal Pradesh,_of_schools_with_internet_facility_pvt_aided,68.1,,of
+Assam,_of_schools_with_internet_facility_pvt_aided,23.8,,of
+Bihar,_of_schools_with_internet_facility_pvt_aided,76.1,,of
+Chandigarh,_of_schools_with_internet_facility_pvt_aided,100.0,,of
+Chhattisgarh,_of_schools_with_internet_facility_pvt_aided,67.8,,of
+Dadra & Nagar Haveli and Daman & Diu,_of_schools_with_internet_facility_pvt_aided,100.0,,of
+Delhi,_of_schools_with_internet_facility_pvt_aided,100.0,,of
+Goa,_of_schools_with_internet_facility_pvt_aided,97.8,,of
+Gujarat,_of_schools_with_internet_facility_pvt_aided,92.4,,of
+Haryana,_of_schools_with_internet_facility_pvt_aided,75.0,,of
+Himachal Pradesh,_of_schools_with_internet_facility_pvt_aided,0.0,,of
+Jammu & Kashmir,_of_schools_with_internet_facility_pvt_aided,100.0,,of
+Jharkhand,_of_schools_with_internet_facility_pvt_aided,48.3,,of
+Karnataka,_of_schools_with_internet_facility_pvt_aided,61.8,,of
+Kerala,_of_schools_with_internet_facility_pvt_aided,90.3,,of
+Ladakh,_of_schools_with_internet_facility_pvt_aided,63.2,,of
+Lakshadweep,_of_schools_with_internet_facility_pvt_aided,0.0,,of
+Madhya Pradesh,_of_schools_with_internet_facility_pvt_aided,50.2,,of
+Maharashtra,_of_schools_with_internet_facility_pvt_aided,86.4,,of
+Manipur,_of_schools_with_internet_facility_pvt_aided,20.3,,of
+Meghalaya,_of_schools_with_internet_facility_pvt_aided,27.6,,of
+Mizoram,_of_schools_with_internet_facility_pvt_aided,65.1,,of
+Nagaland,_of_schools_with_internet_facility_pvt_aided,0.0,,of
+Odisha,_of_schools_with_internet_facility_pvt_aided,85.6,,of
+Puducherry,_of_schools_with_internet_facility_pvt_aided,100.0,,of
+Punjab,_of_schools_with_internet_facility_pvt_aided,91.5,,of
+Rajasthan,_of_schools_with_internet_facility_pvt_aided,0.0,,of
+Sikkim,_of_schools_with_internet_facility_pvt_aided,31.3,,of
+Tamil Nadu,_of_schools_with_internet_facility_pvt_aided,64.2,,of
+Telangana,_of_schools_with_internet_facility_pvt_aided,44.4,,of
+Tripura,_of_schools_with_internet_facility_pvt_aided,42.9,,of
+Uttar Pradesh,_of_schools_with_internet_facility_pvt_aided,55.6,,of
+Uttarakhand,_of_schools_with_internet_facility_pvt_aided,75.3,,of
+West Bengal,_of_schools_with_internet_facility_pvt_aided,70.3,,of
+India,_of_schools_with_internet_facility_pvt_unaided,77.1,,of
+Andaman & Nicobar Islands,_of_schools_with_internet_facility_pvt_unaided,90.1,,of
+Andhra Pradesh,_of_schools_with_internet_facility_pvt_unaided,100.0,,of
+Arunachal Pradesh,_of_schools_with_internet_facility_pvt_unaided,70.9,,of
+Assam,_of_schools_with_internet_facility_pvt_unaided,54.7,,of
+Bihar,_of_schools_with_internet_facility_pvt_unaided,89.6,,of
+Chandigarh,_of_schools_with_internet_facility_pvt_unaided,100.0,,of
+Chhattisgarh,_of_schools_with_internet_facility_pvt_unaided,77.3,,of
+Dadra & Nagar Haveli and Daman & Diu,_of_schools_with_internet_facility_pvt_unaided,98.4,,of
+Delhi,_of_schools_with_internet_facility_pvt_unaided,100.0,,of
+Goa,_of_schools_with_internet_facility_pvt_unaided,97.9,,of
+Gujarat,_of_schools_with_internet_facility_pvt_unaided,96.2,,of
+Haryana,_of_schools_with_internet_facility_pvt_unaided,94.5,,of
+Himachal Pradesh,_of_schools_with_internet_facility_pvt_unaided,88.5,,of
+Jammu & Kashmir,_of_schools_with_internet_facility_pvt_unaided,71.8,,of
+Jharkhand,_of_schools_with_internet_facility_pvt_unaided,84.6,,of
+Karnataka,_of_schools_with_internet_facility_pvt_unaided,83.4,,of
+Kerala,_of_schools_with_internet_facility_pvt_unaided,98.8,,of
+Ladakh,_of_schools_with_internet_facility_pvt_unaided,65.8,,of
+Lakshadweep,_of_schools_with_internet_facility_pvt_unaided,0.0,,of
+Madhya Pradesh,_of_schools_with_internet_facility_pvt_unaided,79.6,,of
+Maharashtra,_of_schools_with_internet_facility_pvt_unaided,93.5,,of
+Manipur,_of_schools_with_internet_facility_pvt_unaided,76.1,,of
+Meghalaya,_of_schools_with_internet_facility_pvt_unaided,30.8,,of
+Mizoram,_of_schools_with_internet_facility_pvt_unaided,68.8,,of
+Nagaland,_of_schools_with_internet_facility_pvt_unaided,78.6,,of
+Odisha,_of_schools_with_internet_facility_pvt_unaided,88.6,,of
+Puducherry,_of_schools_with_internet_facility_pvt_unaided,99.0,,of
+Punjab,_of_schools_with_internet_facility_pvt_unaided,94.0,,of
+Rajasthan,_of_schools_with_internet_facility_pvt_unaided,84.0,,of
+Sikkim,_of_schools_with_internet_facility_pvt_unaided,68.5,,of
+Tamil Nadu,_of_schools_with_internet_facility_pvt_unaided,96.4,,of
+Telangana,_of_schools_with_internet_facility_pvt_unaided,89.3,,of
+Tripura,_of_schools_with_internet_facility_pvt_unaided,65.8,,of
+Uttar Pradesh,_of_schools_with_internet_facility_pvt_unaided,59.2,,of
+Uttarakhand,_of_schools_with_internet_facility_pvt_unaided,87.1,,of
+West Bengal,_of_schools_with_internet_facility_pvt_unaided,39.8,,of
+India,_of_schools_with_internet_facility_others,51.7,,of
+Andaman & Nicobar Islands,_of_schools_with_internet_facility_others,0.00,,of
+Andhra Pradesh,_of_schools_with_internet_facility_others,100.00,,of
+Arunachal Pradesh,_of_schools_with_internet_facility_others,42.9,,of
+Assam,_of_schools_with_internet_facility_others,16.4,,of
+Bihar,_of_schools_with_internet_facility_others,78.5,,of
+Chandigarh,_of_schools_with_internet_facility_others,0.00,,of
+Chhattisgarh,_of_schools_with_internet_facility_others,47.2,,of
+Dadra & Nagar Haveli and Daman & Diu,_of_schools_with_internet_facility_others,100.00,,of
+Delhi,_of_schools_with_internet_facility_others,0.00,,of
+Goa,_of_schools_with_internet_facility_others,0.00,,of
+Gujarat,_of_schools_with_internet_facility_others,100.00,,of
+Haryana,_of_schools_with_internet_facility_others,87.9,,of
+Himachal Pradesh,_of_schools_with_internet_facility_others,50.00,,of
+Jammu & Kashmir,_of_schools_with_internet_facility_others,70.2,,of
+Jharkhand,_of_schools_with_internet_facility_others,65.6,,of
+Karnataka,_of_schools_with_internet_facility_others,60.00,,of
+Kerala,_of_schools_with_internet_facility_others,91.8,,of
+Ladakh,_of_schools_with_internet_facility_others,0.00,,of
+Lakshadweep,_of_schools_with_internet_facility_others,0.00,,of
+Madhya Pradesh,_of_schools_with_internet_facility_others,50.2,,of
+Maharashtra,_of_schools_with_internet_facility_others,90.2,,of
+Manipur,_of_schools_with_internet_facility_others,42.4,,of
+Meghalaya,_of_schools_with_internet_facility_others,23.00,,of
+Mizoram,_of_schools_with_internet_facility_others,82.5,,of
+Nagaland,_of_schools_with_internet_facility_others,0.00,,of
+Odisha,_of_schools_with_internet_facility_others,84.6,,of
+Puducherry,_of_schools_with_internet_facility_others,0.00,,of
+Punjab,_of_schools_with_internet_facility_others,58.3,,of
+Rajasthan,_of_schools_with_internet_facility_others,34.9,,of
+Sikkim,_of_schools_with_internet_facility_others,0.00,,of
+Tamil Nadu,_of_schools_with_internet_facility_others,97.00,,of
+Telangana,_of_schools_with_internet_facility_others,27.3,,of
+Tripura,_of_schools_with_internet_facility_others,8.7,,of
+Uttar Pradesh,_of_schools_with_internet_facility_others,41.5,,of
+Uttarakhand,_of_schools_with_internet_facility_others,87.7,,of
+West Bengal,_of_schools_with_internet_facility_others,32.2,,of

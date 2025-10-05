@@ -1,0 +1,445 @@
+state_ut,variable,value,level,category
+India,ner_foundational_pre_primary_to_class_ii_boys,37.2,ner,foundational
+Andaman & Nicobar Islands,ner_foundational_pre_primary_to_class_ii_boys,61.0,ner,foundational
+Andhra Pradesh,ner_foundational_pre_primary_to_class_ii_boys,42.3,ner,foundational
+Arunachal Pradesh,ner_foundational_pre_primary_to_class_ii_boys,53.7,ner,foundational
+Assam,ner_foundational_pre_primary_to_class_ii_boys,44.1,ner,foundational
+Bihar,ner_foundational_pre_primary_to_class_ii_boys,25.1,ner,foundational
+Chandigarh,ner_foundational_pre_primary_to_class_ii_boys,62.7,ner,foundational
+Chhattisgarh,ner_foundational_pre_primary_to_class_ii_boys,38.8,ner,foundational
+Dadra & Nagar Haveli and Daman & Diu,ner_foundational_pre_primary_to_class_ii_boys,47.0,ner,foundational
+Delhi,ner_foundational_pre_primary_to_class_ii_boys,48.7,ner,foundational
+Goa,ner_foundational_pre_primary_to_class_ii_boys,71.2,ner,foundational
+Gujarat,ner_foundational_pre_primary_to_class_ii_boys,34.4,ner,foundational
+Haryana,ner_foundational_pre_primary_to_class_ii_boys,34.4,ner,foundational
+Himachal Pradesh,ner_foundational_pre_primary_to_class_ii_boys,58.5,ner,foundational
+Jammu & Kashmir,ner_foundational_pre_primary_to_class_ii_boys,80.0,ner,foundational
+Jharkhand,ner_foundational_pre_primary_to_class_ii_boys,32.6,ner,foundational
+Karnataka,ner_foundational_pre_primary_to_class_ii_boys,46.1,ner,foundational
+Kerala,ner_foundational_pre_primary_to_class_ii_boys,51.7,ner,foundational
+Ladakh,ner_foundational_pre_primary_to_class_ii_boys,80.2,ner,foundational
+Lakshadweep,ner_foundational_pre_primary_to_class_ii_boys,59.4,ner,foundational
+Madhya Pradesh,ner_foundational_pre_primary_to_class_ii_boys,31.4,ner,foundational
+Maharashtra,ner_foundational_pre_primary_to_class_ii_boys,38.9,ner,foundational
+Manipur,ner_foundational_pre_primary_to_class_ii_boys,70.5,ner,foundational
+Meghalaya,ner_foundational_pre_primary_to_class_ii_boys,96.8,ner,foundational
+Mizoram,ner_foundational_pre_primary_to_class_ii_boys,78.8,ner,foundational
+Nagaland,ner_foundational_pre_primary_to_class_ii_boys,66.6,ner,foundational
+Odisha,ner_foundational_pre_primary_to_class_ii_boys,33.4,ner,foundational
+Puducherry,ner_foundational_pre_primary_to_class_ii_boys,63.3,ner,foundational
+Punjab,ner_foundational_pre_primary_to_class_ii_boys,67.6,ner,foundational
+Rajasthan,ner_foundational_pre_primary_to_class_ii_boys,44.5,ner,foundational
+Sikkim,ner_foundational_pre_primary_to_class_ii_boys,76.7,ner,foundational
+Telangana,ner_foundational_pre_primary_to_class_ii_boys,51.0,ner,foundational
+Tamil Nadu,ner_foundational_pre_primary_to_class_ii_boys,46.8,ner,foundational
+Tripura,ner_foundational_pre_primary_to_class_ii_boys,47.6,ner,foundational
+Uttar Pradesh,ner_foundational_pre_primary_to_class_ii_boys,25.4,ner,foundational
+Uttarakhand,ner_foundational_pre_primary_to_class_ii_boys,44.8,ner,foundational
+West Bengal,ner_foundational_pre_primary_to_class_ii_boys,52.6,ner,foundational
+India,ner_foundational_pre_primary_to_class_ii_girls,38.7,ner,foundational
+Andaman & Nicobar Islands,ner_foundational_pre_primary_to_class_ii_girls,59.0,ner,foundational
+Andhra Pradesh,ner_foundational_pre_primary_to_class_ii_girls,41.7,ner,foundational
+Arunachal Pradesh,ner_foundational_pre_primary_to_class_ii_girls,56.0,ner,foundational
+Assam,ner_foundational_pre_primary_to_class_ii_girls,46.7,ner,foundational
+Bihar,ner_foundational_pre_primary_to_class_ii_girls,26.8,ner,foundational
+Chandigarh,ner_foundational_pre_primary_to_class_ii_girls,63.9,ner,foundational
+Chhattisgarh,ner_foundational_pre_primary_to_class_ii_girls,39.0,ner,foundational
+Dadra & Nagar Haveli and Daman & Diu,ner_foundational_pre_primary_to_class_ii_girls,46.1,ner,foundational
+Delhi,ner_foundational_pre_primary_to_class_ii_girls,53.1,ner,foundational
+Goa,ner_foundational_pre_primary_to_class_ii_girls,68.0,ner,foundational
+Gujarat,ner_foundational_pre_primary_to_class_ii_girls,36.1,ner,foundational
+Haryana,ner_foundational_pre_primary_to_class_ii_girls,34.9,ner,foundational
+Himachal Pradesh,ner_foundational_pre_primary_to_class_ii_girls,58.5,ner,foundational
+Jammu & Kashmir,ner_foundational_pre_primary_to_class_ii_girls,78.7,ner,foundational
+Jharkhand,ner_foundational_pre_primary_to_class_ii_girls,32.5,ner,foundational
+Karnataka,ner_foundational_pre_primary_to_class_ii_girls,46.2,ner,foundational
+Kerala,ner_foundational_pre_primary_to_class_ii_girls,51.6,ner,foundational
+Ladakh,ner_foundational_pre_primary_to_class_ii_girls,73.5,ner,foundational
+Lakshadweep,ner_foundational_pre_primary_to_class_ii_girls,57.5,ner,foundational
+Madhya Pradesh,ner_foundational_pre_primary_to_class_ii_girls,33.3,ner,foundational
+Maharashtra,ner_foundational_pre_primary_to_class_ii_girls,41.5,ner,foundational
+Manipur,ner_foundational_pre_primary_to_class_ii_girls,72.8,ner,foundational
+Meghalaya,ner_foundational_pre_primary_to_class_ii_girls,100.0,ner,foundational
+Mizoram,ner_foundational_pre_primary_to_class_ii_girls,81.9,ner,foundational
+Nagaland,ner_foundational_pre_primary_to_class_ii_girls,69.4,ner,foundational
+Odisha,ner_foundational_pre_primary_to_class_ii_girls,33.1,ner,foundational
+Puducherry,ner_foundational_pre_primary_to_class_ii_girls,60.6,ner,foundational
+Punjab,ner_foundational_pre_primary_to_class_ii_girls,68.0,ner,foundational
+Rajasthan,ner_foundational_pre_primary_to_class_ii_girls,44.5,ner,foundational
+Sikkim,ner_foundational_pre_primary_to_class_ii_girls,76.1,ner,foundational
+Telangana,ner_foundational_pre_primary_to_class_ii_girls,51.5,ner,foundational
+Tamil Nadu,ner_foundational_pre_primary_to_class_ii_girls,47.7,ner,foundational
+Tripura,ner_foundational_pre_primary_to_class_ii_girls,48.9,ner,foundational
+Uttar Pradesh,ner_foundational_pre_primary_to_class_ii_girls,27.2,ner,foundational
+Uttarakhand,ner_foundational_pre_primary_to_class_ii_girls,47.1,ner,foundational
+West Bengal,ner_foundational_pre_primary_to_class_ii_girls,53.9,ner,foundational
+India,ner_foundational_pre_primary_to_class_ii_total,37.9,ner,foundational
+Andaman & Nicobar Islands,ner_foundational_pre_primary_to_class_ii_total,60.0,ner,foundational
+Andhra Pradesh,ner_foundational_pre_primary_to_class_ii_total,42.0,ner,foundational
+Arunachal Pradesh,ner_foundational_pre_primary_to_class_ii_total,54.8,ner,foundational
+Assam,ner_foundational_pre_primary_to_class_ii_total,45.4,ner,foundational
+Bihar,ner_foundational_pre_primary_to_class_ii_total,25.9,ner,foundational
+Chandigarh,ner_foundational_pre_primary_to_class_ii_total,63.2,ner,foundational
+Chhattisgarh,ner_foundational_pre_primary_to_class_ii_total,38.9,ner,foundational
+Dadra & Nagar Haveli and Daman & Diu,ner_foundational_pre_primary_to_class_ii_total,46.6,ner,foundational
+Delhi,ner_foundational_pre_primary_to_class_ii_total,50.7,ner,foundational
+Goa,ner_foundational_pre_primary_to_class_ii_total,69.6,ner,foundational
+Gujarat,ner_foundational_pre_primary_to_class_ii_total,35.2,ner,foundational
+Haryana,ner_foundational_pre_primary_to_class_ii_total,34.6,ner,foundational
+Himachal Pradesh,ner_foundational_pre_primary_to_class_ii_total,58.5,ner,foundational
+Jammu & Kashmir,ner_foundational_pre_primary_to_class_ii_total,79.4,ner,foundational
+Jharkhand,ner_foundational_pre_primary_to_class_ii_total,32.6,ner,foundational
+Karnataka,ner_foundational_pre_primary_to_class_ii_total,46.1,ner,foundational
+Kerala,ner_foundational_pre_primary_to_class_ii_total,51.7,ner,foundational
+Ladakh,ner_foundational_pre_primary_to_class_ii_total,76.9,ner,foundational
+Lakshadweep,ner_foundational_pre_primary_to_class_ii_total,58.5,ner,foundational
+Madhya Pradesh,ner_foundational_pre_primary_to_class_ii_total,32.3,ner,foundational
+Maharashtra,ner_foundational_pre_primary_to_class_ii_total,40.1,ner,foundational
+Manipur,ner_foundational_pre_primary_to_class_ii_total,71.6,ner,foundational
+Meghalaya,ner_foundational_pre_primary_to_class_ii_total,98.8,ner,foundational
+Mizoram,ner_foundational_pre_primary_to_class_ii_total,80.3,ner,foundational
+Nagaland,ner_foundational_pre_primary_to_class_ii_total,68.0,ner,foundational
+Odisha,ner_foundational_pre_primary_to_class_ii_total,33.3,ner,foundational
+Puducherry,ner_foundational_pre_primary_to_class_ii_total,61.9,ner,foundational
+Punjab,ner_foundational_pre_primary_to_class_ii_total,67.8,ner,foundational
+Rajasthan,ner_foundational_pre_primary_to_class_ii_total,44.5,ner,foundational
+Sikkim,ner_foundational_pre_primary_to_class_ii_total,76.4,ner,foundational
+Telangana,ner_foundational_pre_primary_to_class_ii_total,51.3,ner,foundational
+Tamil Nadu,ner_foundational_pre_primary_to_class_ii_total,47.2,ner,foundational
+Tripura,ner_foundational_pre_primary_to_class_ii_total,48.2,ner,foundational
+Uttar Pradesh,ner_foundational_pre_primary_to_class_ii_total,26.2,ner,foundational
+Uttarakhand,ner_foundational_pre_primary_to_class_ii_total,45.9,ner,foundational
+West Bengal,ner_foundational_pre_primary_to_class_ii_total,53.3,ner,foundational
+India,ner_preparatory_class_iii_to_class_v_boys,68.0,ner,preparatory
+Andaman & Nicobar Islands,ner_preparatory_class_iii_to_class_v_boys,70.4,ner,preparatory
+Andhra Pradesh,ner_preparatory_class_iii_to_class_v_boys,71.5,ner,preparatory
+Arunachal Pradesh,ner_preparatory_class_iii_to_class_v_boys,62.2,ner,preparatory
+Assam,ner_preparatory_class_iii_to_class_v_boys,71.2,ner,preparatory
+Bihar,ner_preparatory_class_iii_to_class_v_boys,66.5,ner,preparatory
+Chandigarh,ner_preparatory_class_iii_to_class_v_boys,87.5,ner,preparatory
+Chhattisgarh,ner_preparatory_class_iii_to_class_v_boys,79.7,ner,preparatory
+Dadra & Nagar Haveli and Daman & Diu,ner_preparatory_class_iii_to_class_v_boys,87.0,ner,preparatory
+Delhi,ner_preparatory_class_iii_to_class_v_boys,81.1,ner,preparatory
+Goa,ner_preparatory_class_iii_to_class_v_boys,99.9,ner,preparatory
+Gujarat,ner_preparatory_class_iii_to_class_v_boys,71.2,ner,preparatory
+Haryana,ner_preparatory_class_iii_to_class_v_boys,71.0,ner,preparatory
+Himachal Pradesh,ner_preparatory_class_iii_to_class_v_boys,67.5,ner,preparatory
+Jammu & Kashmir,ner_preparatory_class_iii_to_class_v_boys,59.6,ner,preparatory
+Jharkhand,ner_preparatory_class_iii_to_class_v_boys,66.3,ner,preparatory
+Karnataka,ner_preparatory_class_iii_to_class_v_boys,89.0,ner,preparatory
+Kerala,ner_preparatory_class_iii_to_class_v_boys,81.6,ner,preparatory
+Ladakh,ner_preparatory_class_iii_to_class_v_boys,72.9,ner,preparatory
+Lakshadweep,ner_preparatory_class_iii_to_class_v_boys,84.8,ner,preparatory
+Madhya Pradesh,ner_preparatory_class_iii_to_class_v_boys,54.9,ner,preparatory
+Maharashtra,ner_preparatory_class_iii_to_class_v_boys,78.2,ner,preparatory
+Manipur,ner_preparatory_class_iii_to_class_v_boys,82.1,ner,preparatory
+Meghalaya,ner_preparatory_class_iii_to_class_v_boys,87.8,ner,preparatory
+Mizoram,ner_preparatory_class_iii_to_class_v_boys,87.5,ner,preparatory
+Nagaland,ner_preparatory_class_iii_to_class_v_boys,60.8,ner,preparatory
+Odisha,ner_preparatory_class_iii_to_class_v_boys,72.5,ner,preparatory
+Puducherry,ner_preparatory_class_iii_to_class_v_boys,65.6,ner,preparatory
+Punjab,ner_preparatory_class_iii_to_class_v_boys,79.9,ner,preparatory
+Rajasthan,ner_preparatory_class_iii_to_class_v_boys,69.1,ner,preparatory
+Sikkim,ner_preparatory_class_iii_to_class_v_boys,69.3,ner,preparatory
+Telangana,ner_preparatory_class_iii_to_class_v_boys,58.4,ner,preparatory
+Tamil Nadu,ner_preparatory_class_iii_to_class_v_boys,78.6,ner,preparatory
+Tripura,ner_preparatory_class_iii_to_class_v_boys,97.1,ner,preparatory
+Uttar Pradesh,ner_preparatory_class_iii_to_class_v_boys,56.3,ner,preparatory
+Uttarakhand,ner_preparatory_class_iii_to_class_v_boys,75.1,ner,preparatory
+West Bengal,ner_preparatory_class_iii_to_class_v_boys,76.9,ner,preparatory
+India,ner_preparatory_class_iii_to_class_v_girls,70.7,ner,preparatory
+Andaman & Nicobar Islands,ner_preparatory_class_iii_to_class_v_girls,69.8,ner,preparatory
+Andhra Pradesh,ner_preparatory_class_iii_to_class_v_girls,69.9,ner,preparatory
+Arunachal Pradesh,ner_preparatory_class_iii_to_class_v_girls,65.4,ner,preparatory
+Assam,ner_preparatory_class_iii_to_class_v_girls,76.5,ner,preparatory
+Bihar,ner_preparatory_class_iii_to_class_v_girls,73.6,ner,preparatory
+Chandigarh,ner_preparatory_class_iii_to_class_v_girls,94.1,ner,preparatory
+Chhattisgarh,ner_preparatory_class_iii_to_class_v_girls,83.3,ner,preparatory
+Dadra & Nagar Haveli and Daman & Diu,ner_preparatory_class_iii_to_class_v_girls,90.2,ner,preparatory
+Delhi,ner_preparatory_class_iii_to_class_v_girls,83.3,ner,preparatory
+Goa,ner_preparatory_class_iii_to_class_v_girls,100.0,ner,preparatory
+Gujarat,ner_preparatory_class_iii_to_class_v_girls,73.4,ner,preparatory
+Haryana,ner_preparatory_class_iii_to_class_v_girls,68.0,ner,preparatory
+Himachal Pradesh,ner_preparatory_class_iii_to_class_v_girls,67.1,ner,preparatory
+Jammu & Kashmir,ner_preparatory_class_iii_to_class_v_girls,59.7,ner,preparatory
+Jharkhand,ner_preparatory_class_iii_to_class_v_girls,69.4,ner,preparatory
+Karnataka,ner_preparatory_class_iii_to_class_v_girls,89.2,ner,preparatory
+Kerala,ner_preparatory_class_iii_to_class_v_girls,80.5,ner,preparatory
+Ladakh,ner_preparatory_class_iii_to_class_v_girls,76.6,ner,preparatory
+Lakshadweep,ner_preparatory_class_iii_to_class_v_girls,79.5,ner,preparatory
+Madhya Pradesh,ner_preparatory_class_iii_to_class_v_girls,58.0,ner,preparatory
+Maharashtra,ner_preparatory_class_iii_to_class_v_girls,81.4,ner,preparatory
+Manipur,ner_preparatory_class_iii_to_class_v_girls,84.8,ner,preparatory
+Meghalaya,ner_preparatory_class_iii_to_class_v_girls,97.8,ner,preparatory
+Mizoram,ner_preparatory_class_iii_to_class_v_girls,91.9,ner,preparatory
+Nagaland,ner_preparatory_class_iii_to_class_v_girls,63.6,ner,preparatory
+Odisha,ner_preparatory_class_iii_to_class_v_girls,71.3,ner,preparatory
+Puducherry,ner_preparatory_class_iii_to_class_v_girls,64.7,ner,preparatory
+Punjab,ner_preparatory_class_iii_to_class_v_girls,78.1,ner,preparatory
+Rajasthan,ner_preparatory_class_iii_to_class_v_girls,70.5,ner,preparatory
+Sikkim,ner_preparatory_class_iii_to_class_v_girls,67.5,ner,preparatory
+Telangana,ner_preparatory_class_iii_to_class_v_girls,58.2,ner,preparatory
+Tamil Nadu,ner_preparatory_class_iii_to_class_v_girls,78.3,ner,preparatory
+Tripura,ner_preparatory_class_iii_to_class_v_girls,100.0,ner,preparatory
+Uttar Pradesh,ner_preparatory_class_iii_to_class_v_girls,60.6,ner,preparatory
+Uttarakhand,ner_preparatory_class_iii_to_class_v_girls,77.9,ner,preparatory
+West Bengal,ner_preparatory_class_iii_to_class_v_girls,77.9,ner,preparatory
+India,ner_preparatory_class_iii_to_class_v_total,69.3,ner,preparatory
+Andaman & Nicobar Islands,ner_preparatory_class_iii_to_class_v_total,70.1,ner,preparatory
+Andhra Pradesh,ner_preparatory_class_iii_to_class_v_total,70.7,ner,preparatory
+Arunachal Pradesh,ner_preparatory_class_iii_to_class_v_total,63.7,ner,preparatory
+Assam,ner_preparatory_class_iii_to_class_v_total,73.7,ner,preparatory
+Bihar,ner_preparatory_class_iii_to_class_v_total,69.8,ner,preparatory
+Chandigarh,ner_preparatory_class_iii_to_class_v_total,90.5,ner,preparatory
+Chhattisgarh,ner_preparatory_class_iii_to_class_v_total,81.3,ner,preparatory
+Dadra & Nagar Haveli and Daman & Diu,ner_preparatory_class_iii_to_class_v_total,88.5,ner,preparatory
+Delhi,ner_preparatory_class_iii_to_class_v_total,82.1,ner,preparatory
+Goa,ner_preparatory_class_iii_to_class_v_total,100.0,ner,preparatory
+Gujarat,ner_preparatory_class_iii_to_class_v_total,72.2,ner,preparatory
+Haryana,ner_preparatory_class_iii_to_class_v_total,69.6,ner,preparatory
+Himachal Pradesh,ner_preparatory_class_iii_to_class_v_total,67.3,ner,preparatory
+Jammu & Kashmir,ner_preparatory_class_iii_to_class_v_total,59.6,ner,preparatory
+Jharkhand,ner_preparatory_class_iii_to_class_v_total,67.8,ner,preparatory
+Karnataka,ner_preparatory_class_iii_to_class_v_total,89.1,ner,preparatory
+Kerala,ner_preparatory_class_iii_to_class_v_total,81.1,ner,preparatory
+Ladakh,ner_preparatory_class_iii_to_class_v_total,74.7,ner,preparatory
+Lakshadweep,ner_preparatory_class_iii_to_class_v_total,82.2,ner,preparatory
+Madhya Pradesh,ner_preparatory_class_iii_to_class_v_total,56.3,ner,preparatory
+Maharashtra,ner_preparatory_class_iii_to_class_v_total,79.7,ner,preparatory
+Manipur,ner_preparatory_class_iii_to_class_v_total,83.4,ner,preparatory
+Meghalaya,ner_preparatory_class_iii_to_class_v_total,92.7,ner,preparatory
+Mizoram,ner_preparatory_class_iii_to_class_v_total,89.6,ner,preparatory
+Nagaland,ner_preparatory_class_iii_to_class_v_total,62.1,ner,preparatory
+Odisha,ner_preparatory_class_iii_to_class_v_total,71.9,ner,preparatory
+Puducherry,ner_preparatory_class_iii_to_class_v_total,65.1,ner,preparatory
+Punjab,ner_preparatory_class_iii_to_class_v_total,79.0,ner,preparatory
+Rajasthan,ner_preparatory_class_iii_to_class_v_total,69.7,ner,preparatory
+Sikkim,ner_preparatory_class_iii_to_class_v_total,68.5,ner,preparatory
+Telangana,ner_preparatory_class_iii_to_class_v_total,58.3,ner,preparatory
+Tamil Nadu,ner_preparatory_class_iii_to_class_v_total,78.4,ner,preparatory
+Tripura,ner_preparatory_class_iii_to_class_v_total,99.4,ner,preparatory
+Uttar Pradesh,ner_preparatory_class_iii_to_class_v_total,58.3,ner,preparatory
+Uttarakhand,ner_preparatory_class_iii_to_class_v_total,76.4,ner,preparatory
+West Bengal,ner_preparatory_class_iii_to_class_v_total,77.4,ner,preparatory
+India,ner_middle_class_vi_to_class_viii_boys,61.5,ner,middle
+Andaman & Nicobar Islands,ner_middle_class_vi_to_class_viii_boys,65.4,ner,middle
+Andhra Pradesh,ner_middle_class_vi_to_class_viii_boys,69.4,ner,middle
+Arunachal Pradesh,ner_middle_class_vi_to_class_viii_boys,50.6,ner,middle
+Assam,ner_middle_class_vi_to_class_viii_boys,59.4,ner,middle
+Bihar,ner_middle_class_vi_to_class_viii_boys,51.0,ner,middle
+Chandigarh,ner_middle_class_vi_to_class_viii_boys,88.4,ner,middle
+Chhattisgarh,ner_middle_class_vi_to_class_viii_boys,71.3,ner,middle
+Dadra & Nagar Haveli and Daman & Diu,ner_middle_class_vi_to_class_viii_boys,85.1,ner,middle
+Delhi,ner_middle_class_vi_to_class_viii_boys,82.8,ner,middle
+Goa,ner_middle_class_vi_to_class_viii_boys,89.4,ner,middle
+Gujarat,ner_middle_class_vi_to_class_viii_boys,68.1,ner,middle
+Haryana,ner_middle_class_vi_to_class_viii_boys,71.7,ner,middle
+Himachal Pradesh,ner_middle_class_vi_to_class_viii_boys,62.8,ner,middle
+Jammu & Kashmir,ner_middle_class_vi_to_class_viii_boys,43.1,ner,middle
+Jharkhand,ner_middle_class_vi_to_class_viii_boys,59.4,ner,middle
+Karnataka,ner_middle_class_vi_to_class_viii_boys,86.2,ner,middle
+Kerala,ner_middle_class_vi_to_class_viii_boys,79.8,ner,middle
+Ladakh,ner_middle_class_vi_to_class_viii_boys,56.4,ner,middle
+Lakshadweep,ner_middle_class_vi_to_class_viii_boys,72.3,ner,middle
+Madhya Pradesh,ner_middle_class_vi_to_class_viii_boys,58.5,ner,middle
+Maharashtra,ner_middle_class_vi_to_class_viii_boys,71.9,ner,middle
+Manipur,ner_middle_class_vi_to_class_viii_boys,58.0,ner,middle
+Meghalaya,ner_middle_class_vi_to_class_viii_boys,63.7,ner,middle
+Mizoram,ner_middle_class_vi_to_class_viii_boys,78.2,ner,middle
+Nagaland,ner_middle_class_vi_to_class_viii_boys,46.7,ner,middle
+Odisha,ner_middle_class_vi_to_class_viii_boys,66.4,ner,middle
+Puducherry,ner_middle_class_vi_to_class_viii_boys,63.2,ner,middle
+Punjab,ner_middle_class_vi_to_class_viii_boys,74.6,ner,middle
+Rajasthan,ner_middle_class_vi_to_class_viii_boys,65.5,ner,middle
+Sikkim,ner_middle_class_vi_to_class_viii_boys,54.3,ner,middle
+Telangana,ner_middle_class_vi_to_class_viii_boys,57.9,ner,middle
+Tamil Nadu,ner_middle_class_vi_to_class_viii_boys,76.4,ner,middle
+Tripura,ner_middle_class_vi_to_class_viii_boys,74.5,ner,middle
+Uttar Pradesh,ner_middle_class_vi_to_class_viii_boys,44.3,ner,middle
+Uttarakhand,ner_middle_class_vi_to_class_viii_boys,68.2,ner,middle
+West Bengal,ner_middle_class_vi_to_class_viii_boys,70.1,ner,middle
+India,ner_middle_class_vi_to_class_viii_girls,62.6,ner,middle
+Andaman & Nicobar Islands,ner_middle_class_vi_to_class_viii_girls,65.4,ner,middle
+Andhra Pradesh,ner_middle_class_vi_to_class_viii_girls,64.6,ner,middle
+Arunachal Pradesh,ner_middle_class_vi_to_class_viii_girls,55.2,ner,middle
+Assam,ner_middle_class_vi_to_class_viii_girls,66.7,ner,middle
+Bihar,ner_middle_class_vi_to_class_viii_girls,57.3,ner,middle
+Chandigarh,ner_middle_class_vi_to_class_viii_girls,97.7,ner,middle
+Chhattisgarh,ner_middle_class_vi_to_class_viii_girls,70.8,ner,middle
+Dadra & Nagar Haveli and Daman & Diu,ner_middle_class_vi_to_class_viii_girls,89.7,ner,middle
+Delhi,ner_middle_class_vi_to_class_viii_girls,84.7,ner,middle
+Goa,ner_middle_class_vi_to_class_viii_girls,93.2,ner,middle
+Gujarat,ner_middle_class_vi_to_class_viii_girls,67.6,ner,middle
+Haryana,ner_middle_class_vi_to_class_viii_girls,67.7,ner,middle
+Himachal Pradesh,ner_middle_class_vi_to_class_viii_girls,61.9,ner,middle
+Jammu & Kashmir,ner_middle_class_vi_to_class_viii_girls,44.8,ner,middle
+Jharkhand,ner_middle_class_vi_to_class_viii_girls,61.1,ner,middle
+Karnataka,ner_middle_class_vi_to_class_viii_girls,84.4,ner,middle
+Kerala,ner_middle_class_vi_to_class_viii_girls,79.0,ner,middle
+Ladakh,ner_middle_class_vi_to_class_viii_girls,68.9,ner,middle
+Lakshadweep,ner_middle_class_vi_to_class_viii_girls,65.3,ner,middle
+Madhya Pradesh,ner_middle_class_vi_to_class_viii_girls,61.0,ner,middle
+Maharashtra,ner_middle_class_vi_to_class_viii_girls,69.4,ner,middle
+Manipur,ner_middle_class_vi_to_class_viii_girls,59.9,ner,middle
+Meghalaya,ner_middle_class_vi_to_class_viii_girls,77.8,ner,middle
+Mizoram,ner_middle_class_vi_to_class_viii_girls,83.5,ner,middle
+Nagaland,ner_middle_class_vi_to_class_viii_girls,52.0,ner,middle
+Odisha,ner_middle_class_vi_to_class_viii_girls,65.4,ner,middle
+Puducherry,ner_middle_class_vi_to_class_viii_girls,65.2,ner,middle
+Punjab,ner_middle_class_vi_to_class_viii_girls,73.7,ner,middle
+Rajasthan,ner_middle_class_vi_to_class_viii_girls,63.0,ner,middle
+Sikkim,ner_middle_class_vi_to_class_viii_girls,54.7,ner,middle
+Telangana,ner_middle_class_vi_to_class_viii_girls,56.4,ner,middle
+Tamil Nadu,ner_middle_class_vi_to_class_viii_girls,73.8,ner,middle
+Tripura,ner_middle_class_vi_to_class_viii_girls,79.5,ner,middle
+Uttar Pradesh,ner_middle_class_vi_to_class_viii_girls,46.9,ner,middle
+Uttarakhand,ner_middle_class_vi_to_class_viii_girls,69.5,ner,middle
+West Bengal,ner_middle_class_vi_to_class_viii_girls,70.7,ner,middle
+India,ner_middle_class_vi_to_class_viii_total,62.0,ner,middle
+Andaman & Nicobar Islands,ner_middle_class_vi_to_class_viii_total,65.4,ner,middle
+Andhra Pradesh,ner_middle_class_vi_to_class_viii_total,67.0,ner,middle
+Arunachal Pradesh,ner_middle_class_vi_to_class_viii_total,52.9,ner,middle
+Assam,ner_middle_class_vi_to_class_viii_total,63.0,ner,middle
+Bihar,ner_middle_class_vi_to_class_viii_total,54.0,ner,middle
+Chandigarh,ner_middle_class_vi_to_class_viii_total,92.4,ner,middle
+Chhattisgarh,ner_middle_class_vi_to_class_viii_total,70.5,ner,middle
+Dadra & Nagar Haveli and Daman & Diu,ner_middle_class_vi_to_class_viii_total,87.2,ner,middle
+Delhi,ner_middle_class_vi_to_class_viii_total,83.7,ner,middle
+Goa,ner_middle_class_vi_to_class_viii_total,91.2,ner,middle
+Gujarat,ner_middle_class_vi_to_class_viii_total,67.8,ner,middle
+Haryana,ner_middle_class_vi_to_class_viii_total,69.9,ner,middle
+Himachal Pradesh,ner_middle_class_vi_to_class_viii_total,62.4,ner,middle
+Jammu & Kashmir,ner_middle_class_vi_to_class_viii_total,43.9,ner,middle
+Jharkhand,ner_middle_class_vi_to_class_viii_total,60.2,ner,middle
+Karnataka,ner_middle_class_vi_to_class_viii_total,85.3,ner,middle
+Kerala,ner_middle_class_vi_to_class_viii_total,79.4,ner,middle
+Ladakh,ner_middle_class_vi_to_class_viii_total,62.2,ner,middle
+Lakshadweep,ner_middle_class_vi_to_class_viii_total,68.7,ner,middle
+Madhya Pradesh,ner_middle_class_vi_to_class_viii_total,59.6,ner,middle
+Maharashtra,ner_middle_class_vi_to_class_viii_total,70.7,ner,middle
+Manipur,ner_middle_class_vi_to_class_viii_total,59.0,ner,middle
+Meghalaya,ner_middle_class_vi_to_class_viii_total,70.6,ner,middle
+Mizoram,ner_middle_class_vi_to_class_viii_total,80.8,ner,middle
+Nagaland,ner_middle_class_vi_to_class_viii_total,49.2,ner,middle
+Odisha,ner_middle_class_vi_to_class_viii_total,65.9,ner,middle
+Puducherry,ner_middle_class_vi_to_class_viii_total,64.2,ner,middle
+Punjab,ner_middle_class_vi_to_class_viii_total,74.2,ner,middle
+Rajasthan,ner_middle_class_vi_to_class_viii_total,64.3,ner,middle
+Sikkim,ner_middle_class_vi_to_class_viii_total,54.5,ner,middle
+Telangana,ner_middle_class_vi_to_class_viii_total,57.2,ner,middle
+Tamil Nadu,ner_middle_class_vi_to_class_viii_total,75.1,ner,middle
+Tripura,ner_middle_class_vi_to_class_viii_total,76.9,ner,middle
+Uttar Pradesh,ner_middle_class_vi_to_class_viii_total,45.5,ner,middle
+Uttarakhand,ner_middle_class_vi_to_class_viii_total,68.8,ner,middle
+West Bengal,ner_middle_class_vi_to_class_viii_total,70.4,ner,middle
+India,ner_secondary_class_ix_to_xii_boys,48.7,ner,secondary
+Andaman & Nicobar Islands,ner_secondary_class_ix_to_xii_boys,67.2,ner,secondary
+Andhra Pradesh,ner_secondary_class_ix_to_xii_boys,52.9,ner,secondary
+Arunachal Pradesh,ner_secondary_class_ix_to_xii_boys,41.3,ner,secondary
+Assam,ner_secondary_class_ix_to_xii_boys,38.4,ner,secondary
+Bihar,ner_secondary_class_ix_to_xii_boys,31.1,ner,secondary
+Chandigarh,ner_secondary_class_ix_to_xii_boys,89.5,ner,secondary
+Chhattisgarh,ner_secondary_class_ix_to_xii_boys,50.1,ner,secondary
+Dadra & Nagar Haveli and Daman & Diu,ner_secondary_class_ix_to_xii_boys,55.5,ner,secondary
+Delhi,ner_secondary_class_ix_to_xii_boys,74.1,ner,secondary
+Goa,ner_secondary_class_ix_to_xii_boys,82.0,ner,secondary
+Gujarat,ner_secondary_class_ix_to_xii_boys,44.4,ner,secondary
+Haryana,ner_secondary_class_ix_to_xii_boys,61.8,ner,secondary
+Himachal Pradesh,ner_secondary_class_ix_to_xii_boys,63.4,ner,secondary
+Jammu & Kashmir,ner_secondary_class_ix_to_xii_boys,37.7,ner,secondary
+Jharkhand,ner_secondary_class_ix_to_xii_boys,36.2,ner,secondary
+Karnataka,ner_secondary_class_ix_to_xii_boys,63.3,ner,secondary
+Kerala,ner_secondary_class_ix_to_xii_boys,77.0,ner,secondary
+Ladakh,ner_secondary_class_ix_to_xii_boys,46.3,ner,secondary
+Lakshadweep,ner_secondary_class_ix_to_xii_boys,62.9,ner,secondary
+Madhya Pradesh,ner_secondary_class_ix_to_xii_boys,42.9,ner,secondary
+Maharashtra,ner_secondary_class_ix_to_xii_boys,60.0,ner,secondary
+Manipur,ner_secondary_class_ix_to_xii_boys,52.6,ner,secondary
+Meghalaya,ner_secondary_class_ix_to_xii_boys,37.9,ner,secondary
+Mizoram,ner_secondary_class_ix_to_xii_boys,55.6,ner,secondary
+Nagaland,ner_secondary_class_ix_to_xii_boys,34.9,ner,secondary
+Odisha,ner_secondary_class_ix_to_xii_boys,47.6,ner,secondary
+Puducherry,ner_secondary_class_ix_to_xii_boys,64.8,ner,secondary
+Punjab,ner_secondary_class_ix_to_xii_boys,65.5,ner,secondary
+Rajasthan,ner_secondary_class_ix_to_xii_boys,54.6,ner,secondary
+Sikkim,ner_secondary_class_ix_to_xii_boys,50.5,ner,secondary
+Telangana,ner_secondary_class_ix_to_xii_boys,55.4,ner,secondary
+Tamil Nadu,ner_secondary_class_ix_to_xii_boys,62.8,ner,secondary
+Tripura,ner_secondary_class_ix_to_xii_boys,55.2,ner,secondary
+Uttar Pradesh,ner_secondary_class_ix_to_xii_boys,41.3,ner,secondary
+Uttarakhand,ner_secondary_class_ix_to_xii_boys,61.8,ner,secondary
+West Bengal,ner_secondary_class_ix_to_xii_boys,53.7,ner,secondary
+India,ner_secondary_class_ix_to_xii_girls,50.5,ner,secondary
+Andaman & Nicobar Islands,ner_secondary_class_ix_to_xii_girls,73.7,ner,secondary
+Andhra Pradesh,ner_secondary_class_ix_to_xii_girls,53.4,ner,secondary
+Arunachal Pradesh,ner_secondary_class_ix_to_xii_girls,44.9,ner,secondary
+Assam,ner_secondary_class_ix_to_xii_girls,45.8,ner,secondary
+Bihar,ner_secondary_class_ix_to_xii_girls,36.8,ner,secondary
+Chandigarh,ner_secondary_class_ix_to_xii_girls,100.0,ner,secondary
+Chhattisgarh,ner_secondary_class_ix_to_xii_girls,58.0,ner,secondary
+Dadra & Nagar Haveli and Daman & Diu,ner_secondary_class_ix_to_xii_girls,76.5,ner,secondary
+Delhi,ner_secondary_class_ix_to_xii_girls,76.9,ner,secondary
+Goa,ner_secondary_class_ix_to_xii_girls,90.0,ner,secondary
+Gujarat,ner_secondary_class_ix_to_xii_girls,43.0,ner,secondary
+Haryana,ner_secondary_class_ix_to_xii_girls,60.1,ner,secondary
+Himachal Pradesh,ner_secondary_class_ix_to_xii_girls,64.2,ner,secondary
+Jammu & Kashmir,ner_secondary_class_ix_to_xii_girls,38.3,ner,secondary
+Jharkhand,ner_secondary_class_ix_to_xii_girls,39.4,ner,secondary
+Karnataka,ner_secondary_class_ix_to_xii_girls,53.6,ner,secondary
+Kerala,ner_secondary_class_ix_to_xii_girls,78.6,ner,secondary
+Ladakh,ner_secondary_class_ix_to_xii_girls,67.5,ner,secondary
+Lakshadweep,ner_secondary_class_ix_to_xii_girls,65.1,ner,secondary
+Madhya Pradesh,ner_secondary_class_ix_to_xii_girls,43.9,ner,secondary
+Maharashtra,ner_secondary_class_ix_to_xii_girls,59.0,ner,secondary
+Manipur,ner_secondary_class_ix_to_xii_girls,53.6,ner,secondary
+Meghalaya,ner_secondary_class_ix_to_xii_girls,52.5,ner,secondary
+Mizoram,ner_secondary_class_ix_to_xii_girls,64.5,ner,secondary
+Nagaland,ner_secondary_class_ix_to_xii_girls,41.6,ner,secondary
+Odisha,ner_secondary_class_ix_to_xii_girls,49.5,ner,secondary
+Puducherry,ner_secondary_class_ix_to_xii_girls,74.3,ner,secondary
+Punjab,ner_secondary_class_ix_to_xii_girls,65.8,ner,secondary
+Rajasthan,ner_secondary_class_ix_to_xii_girls,50.5,ner,secondary
+Sikkim,ner_secondary_class_ix_to_xii_girls,58.1,ner,secondary
+Telangana,ner_secondary_class_ix_to_xii_girls,59.7,ner,secondary
+Tamil Nadu,ner_secondary_class_ix_to_xii_girls,62.8,ner,secondary
+Tripura,ner_secondary_class_ix_to_xii_girls,62.1,ner,secondary
+Uttar Pradesh,ner_secondary_class_ix_to_xii_girls,39.8,ner,secondary
+Uttarakhand,ner_secondary_class_ix_to_xii_girls,64.3,ner,secondary
+West Bengal,ner_secondary_class_ix_to_xii_girls,62.7,ner,secondary
+India,ner_secondary_class_ix_to_xii_total,49.6,ner,secondary
+Andaman & Nicobar Islands,ner_secondary_class_ix_to_xii_total,70.2,ner,secondary
+Andhra Pradesh,ner_secondary_class_ix_to_xii_total,53.1,ner,secondary
+Arunachal Pradesh,ner_secondary_class_ix_to_xii_total,43.1,ner,secondary
+Assam,ner_secondary_class_ix_to_xii_total,42.0,ner,secondary
+Bihar,ner_secondary_class_ix_to_xii_total,33.8,ner,secondary
+Chandigarh,ner_secondary_class_ix_to_xii_total,94.9,ner,secondary
+Chhattisgarh,ner_secondary_class_ix_to_xii_total,54.0,ner,secondary
+Dadra & Nagar Haveli and Daman & Diu,ner_secondary_class_ix_to_xii_total,64.1,ner,secondary
+Delhi,ner_secondary_class_ix_to_xii_total,75.4,ner,secondary
+Goa,ner_secondary_class_ix_to_xii_total,85.7,ner,secondary
+Gujarat,ner_secondary_class_ix_to_xii_total,43.8,ner,secondary
+Haryana,ner_secondary_class_ix_to_xii_total,61.0,ner,secondary
+Himachal Pradesh,ner_secondary_class_ix_to_xii_total,63.8,ner,secondary
+Jammu & Kashmir,ner_secondary_class_ix_to_xii_total,38.0,ner,secondary
+Jharkhand,ner_secondary_class_ix_to_xii_total,37.8,ner,secondary
+Karnataka,ner_secondary_class_ix_to_xii_total,65.3,ner,secondary
+Kerala,ner_secondary_class_ix_to_xii_total,77.8,ner,secondary
+Ladakh,ner_secondary_class_ix_to_xii_total,49.8,ner,secondary
+Lakshadweep,ner_secondary_class_ix_to_xii_total,64.0,ner,secondary
+Madhya Pradesh,ner_secondary_class_ix_to_xii_total,43.3,ner,secondary
+Maharashtra,ner_secondary_class_ix_to_xii_total,59.5,ner,secondary
+Manipur,ner_secondary_class_ix_to_xii_total,53.1,ner,secondary
+Meghalaya,ner_secondary_class_ix_to_xii_total,45.1,ner,secondary
+Mizoram,ner_secondary_class_ix_to_xii_total,60.0,ner,secondary
+Nagaland,ner_secondary_class_ix_to_xii_total,38.1,ner,secondary
+Odisha,ner_secondary_class_ix_to_xii_total,48.5,ner,secondary
+Puducherry,ner_secondary_class_ix_to_xii_total,69.3,ner,secondary
+Punjab,ner_secondary_class_ix_to_xii_total,65.6,ner,secondary
+Rajasthan,ner_secondary_class_ix_to_xii_total,52.6,ner,secondary
+Sikkim,ner_secondary_class_ix_to_xii_total,54.3,ner,secondary
+Telangana,ner_secondary_class_ix_to_xii_total,57.5,ner,secondary
+Tamil Nadu,ner_secondary_class_ix_to_xii_total,62.8,ner,secondary
+Tripura,ner_secondary_class_ix_to_xii_total,58.6,ner,secondary
+Uttar Pradesh,ner_secondary_class_ix_to_xii_total,40.6,ner,secondary
+Uttarakhand,ner_secondary_class_ix_to_xii_total,63.0,ner,secondary
+West Bengal,ner_secondary_class_ix_to_xii_total,58.1,ner,secondary
